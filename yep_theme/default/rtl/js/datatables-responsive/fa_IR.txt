@@ -1,0 +1,17 @@
+﻿{
+	"processing": "در حال پردازش...",
+	"lengthMenu": "نمايش _MENU_ رکورد",
+	"zeroRecords": "متاسفانه چيزي يافت نشد ",
+	"info": "نمايش صفحه _PAGE_ از _PAGES_",
+	"infoEmpty": "هيچ رکوردي وجود ندارد",
+	"infoFiltered": "(جستجوي از ميان _MAX_ رکورد)",
+	"infoPostFix": "",
+	"search": "جستجو",
+	"url": "",
+	"paginate": {
+		"first":    "اولين",
+		"previous": "قبلي",
+		"next":     "بعدي",
+		"last":     "آخرين"
+	}
+}

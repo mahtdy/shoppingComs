@@ -1,0 +1,74 @@
+
+
+
+
+
+var x = '1,2,3,4,10'
+undefined
+x
+"1,2,3,4,10"
+x.split(',')
+(5) ["1", "2", "3", "4", "10"]
+console.log(x.split(','));
+undefined
+var y = x.split(',')
+undefined
+y
+(5) ["1", "2", "3", "4", "10"]
+
+y = y.filter(function(val){
+return val !== "2"
+})
+
+(4) ["1", "3", "4", "10"]
+y.toString(',')
+"1,3,4,10"
+
+
+
+var arrchkid='';
+var chkId = '';
+$("#relate_btn").click(function () {
+arrchkid= chkId.split(',');
+alert('arrchkidchkId='+arrchkid);
+
+$("#show_waiting_search").show();
+$('.conchkNumber_company:checked').each(function() {
+
+
+chkId += $(this).val() + ",";
+
+
+alert($('.conchkNumber_company').prop('checked'));
+$('.conchkNumber_company').click(function () {
+
+
+if ($('.conchkNumber_company').prop('checked')==false){
+alert('arrchkid11='+arrchkid);
+var ss=    $(this).val();
+alert('ss='+ss);
+arrchkid= arrchkid.filter(function (val) {
+return val !== ss
+
+});
+alert('arrchkid='+arrchkid);
+chkId= arrchkid.toString(',');}});
+alert('arrchkid22='+arrchkid);
+
+// alert('checkid 1='+chkId);
+// chkId =  chkId.slice(0,-1);
+alert('chifd='+chkId);
+
+$.ajax({
+type: 'POST',
+url: 'New_ajax.php',
+data: "action=show_related_company&id=" + $("#related_search").val() + "&value=" + $("#manage_lang").val()+"&checkid="+chkId,
+success: function (result) {
+//alert(result);
+$("#show_waiting_search").hide();
+$("#show_related").html(result);
+$("#related_search").val('');
+
+}
+});
+arrchkid= chkId.split(',');  });});

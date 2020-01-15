@@ -1,0 +1,156 @@
+.H_block_h3{
+    font-size: 15px;
+    font-weight: bold;
+    color: #000;
+}
+.H_block_h4{
+    font-size: 13px;
+    font-weight: bold;
+    color: #000;
+}
+.H_center{
+    text-align: center;
+}
+.H_font12{
+    font-size: 12px!important;
+    font-weight: 500!important;
+    color: #797979;
+}
+.H_font13{
+    font-size: 13px!important;
+    font-weight: 400!important;
+    color: #333!important;
+    line-height: 20px!important;
+}
+.H_border_color{
+    border: 1px solid #abaaaa3d;
+    background-color: #f2f2f20f  !important;
+}
+.H_p5{
+    padding: 5px 5px 5px 12px;
+    text-align: justify;
+}
+.H_p{
+    padding: 7px 10px !important;
+}
+.H_p0{
+    padding: 0!important;
+}
+.H_p15{
+    padding: 15px!important;
+}
+img {
+    max-width: 100%;
+
+}
+.bg-white{
+    background: white;
+}
+.H_wh{
+    width: 80px;
+    height:80px;
+}
+.H_mt5{
+    clear: both;
+    overflow: hidden;
+    padding: 0 0 0 10px;
+    max-height: 95px;
+    margin-bottom: 0!important;
+    background: #b3b3b32e;
+    margin-top: 5px;
+}
+.H_mt05{
+    margin-top: 5px;
+}
+.H_b0{
+    border: 0!important;
+}
+.H_mbc{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: #f3f1f1;
+}
+.H_mb0{
+    margin-bottom: 0;
+}
+.H_bg{
+    background-color: #f8f8f8!important;
+}
+main aside .block-col .block .content input{
+    font-size: 12px!important;
+}
+.H_ptb10{
+    padding: 10px 0;
+}
+main aside .block-col .block .content ul li:before{
+    margin-right: 5px!important;
+}
+main aside .block-col .block img{
+    width: 300px;
+    height: 95px;
+}
+main aside .block-col .video-block ul li {
+    border-bottom: solid 1px #0a0a0a17;
+}
+.H_bg2{
+    background-color: #f1f1f1;
+}
+main aside .block-col .post-block ul li {
+    border-bottom: solid 1px #0a0a0a17;
+    padding-bottom: 15px;
+    margin-bottom: 0;
+}
+.H_b{
+    border: solid 1px #0a0a0a47;
+}
+.H_border_tb{
+    border-bottom: solid 1px #0a0a0a47;
+}
+.H_height70{
+    height: 70px;
+}
+
+.H_ml10{
+    margin-left: 10px;
+}
+.H_mr10{
+    margin-right: 10px;
+}
+ul{
+    list-style-type: none;
+}
+
+aside .block-col .block .header{
+    background: #f8f8f8;
+    padding: 10px 10px;
+    border-bottom: 1px solid #dfdfdf;
+    /*margin-top: -10px;*/
+}
+
+
+@media (min-width: 576px) {
+    /*---------------*/
+    .col-md-9.H {
+        width: 73.5%;
+    }
+
+    .col-md-3.H {
+        width: 26.4%;
+    }
+
+    .col-md-2.H {
+        width: 21.93%;
+    }
+
+    .col-md-7.H {
+        width: 49%;
+    }
+
+    .col-md-10.H {
+        width: 76.333333%;
+    }
+    /*----------------------*/
+}
+@media (min-width: 576px) {
+
+}

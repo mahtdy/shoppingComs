@@ -1,0 +1,190 @@
+.responsive-slider {
+  width: 100%;
+  position: relative;
+}
+.responsive-slider [data-animate] {
+  opacity: 0;
+}
+.responsive-slider .slides {
+  position: relative;
+  overflow: hidden;
+}
+.responsive-slider .slides ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  white-space: nowrap;
+  font-size: 0;
+}
+.responsive-slider .slides ul li {
+  display: inline-block;
+  max-width: 100%;
+}
+.responsive-slider .slides ul li .slide-body {
+  display: inline-block;
+  position: relative;
+  max-width: 100%;
+  font-size: 14px;
+}
+.responsive-slider .slides ul li .slide-body img {
+  max-width: 100%;
+}
+.responsive-slider .slides ul li .slide-body .caption {
+  position: absolute;
+  color: #FFFFFF;
+}
+.responsive-slider .slides ul li .slide-body .caption.header {
+  bottom: 40%;
+  left: 30%;
+  direction: rtl;
+  background-color: #3D4348;
+  padding-right: 8px;
+  padding-left: 8px;
+  padding-bottom: 0;
+}
+.responsive-slider .slides ul li .slide-body .caption.header h2 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 2px;
+}
+.responsive-slider .slides ul li .slide-body .caption.header h2 i {
+  font-size: 35px;
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  .responsive-slider .slides ul li .slide-body .caption.header h2 {
+    font-size: 25px;
+  }
+  .responsive-slider .slides ul li .slide-body .caption.header h2 i {
+    font-size: 20px;
+  }
+}
+@media (max-width: 480px) {
+  .responsive-slider .slides ul li .slide-body .caption.header h2 {
+    font-size: 27px;
+  }
+  .responsive-slider .slides ul li .slide-body .caption.header h2 i {
+    font-size: 14px;
+  }
+}
+.responsive-slider .slides ul li .slide-body .caption.sub {
+  font-size: 15pt;
+  background-color: rgb(255, 156, 27);
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 2px;
+  color: #3D4348;
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  .responsive-slider .slides ul li .slide-body .caption.sub {
+    font-size: 12pt;
+    bottom: -24px;
+  }
+}
+@media (max-width: 480px) {
+  .responsive-slider .slides ul li .slide-body .caption.sub {
+    font-size: 15px;
+    bottom: -23px;
+    right: 0;
+  }
+}
+.responsive-slider .slides ul li .slide-body .caption.img-html5 {
+  top: 13%;
+  right: 8%;
+  width: 30%;
+}
+.responsive-slider .slides ul li .slide-body .caption.img-html5 img {
+  max-width: 100%;
+}
+.responsive-slider .slides ul li .slide-body .caption.img-css3 {
+  top: 57%;
+  right: 12%;
+  width: 10%;
+}
+.responsive-slider .slides ul li .slide-body .caption.img-css3 img {
+  max-width: 100%;
+}
+.responsive-slider .slides ul li .slide-body .caption.img-bootstrap {
+  top: 48%;
+  right: 12%;
+  width: 11%;
+}
+.responsive-slider .slides ul li .slide-body .caption.img-bootstrap img {
+  max-width: 100%;
+}
+.responsive-slider .slides ul li .slide-body .caption.img-twitter {
+  top: 19%;
+  right: 12%;
+  width: 11%;
+}
+.responsive-slider .slides ul li .slide-body .caption.img-twitter img {
+  max-width: 100%;
+}
+.responsive-slider .slides ul li .slide-body .caption.img-jquery {
+  top: 66%;
+  right: 12%;
+  width: 33%;
+}
+.responsive-slider .slides ul li .slide-body .caption.img-jquery img {
+  max-width: 100%;
+}
+.responsive-slider .slider-control {
+  font-size: 14px;
+  color: #F2F2F2;
+  padding: 13px;
+}
+.responsive-slider .pages a {
+ 
+  color: #F2F2F2!important;
+
+}
+.responsive-slider .pages a:hover {
+ 
+  color: #F5A33D!important;
+
+}
+.responsive-slider .slider-control.left {
+  background: url(../img/scl.png) no-repeat;
+  background-position: top center;
+  background-position-y: 11px;
+  background-position-x: 6px;
+}
+.responsive-slider .slider-control.left:hover {
+  text-decoration: none;
+}
+.responsive-slider .slider-control.right {
+    background: url(../img/scr.png) no-repeat;
+    background-position: top center;
+    background-position-y: 11px;
+    background-position-x: 5px;
+}
+.responsive-slider .slider-control.right:hover {
+  text-decoration: none;
+}
+@media (max-width: 480px) {
+  .responsive-slider .slider-control.left,
+  .responsive-slider .slider-control.right {
+    display: none;
+  }
+}
+.responsive-slider .pages {
+  width: 100%;
+  text-align: center;
+  background-color: transparent;
+  margin-top: -21px;
+  z-index: 1111;
+  position: relative;
+  margin-bottom: -6px;
+}
+.responsive-slider .pages .page {
+  display: inline-block;
+  color: transparent;
+  width: 5px;
+  height: 5px;
+  border: 3px solid #CCCCCC;
+  border-radius: 50%;
+  opacity: 0.5;
+}
+.responsive-slider .pages .page.active {
+  opacity: 1;
+  border: 3px solid #E28106;
+}

@@ -1,0 +1,151 @@
+footer {
+  color: #f0f0f0 !important;
+  padding-top: 25px;
+  background-color: #3D4348; }
+  footer p {
+    font-size: 12pt;
+    direction: rtl; }
+  footer a {
+    color: #f0f0f0 !important; }
+    footer a:hover {
+      color: #F59E31; }
+  footer .footerads {
+    text-align: center; }
+    footer .footerads figure img {
+      width: 100%; }
+  footer .footerblocks h3 {
+    direction: rtl;
+    line-height: 1;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    border-bottom: 2px solid #151719;
+    font-size: 18px;
+    padding-right: 5px; }
+  footer .footerblocks button {
+    font-size: 13pt;
+    width: 100% !important; }
+  footer .footerblocks input {
+    font-size: 13pt;
+    padding-top: 6px;
+    line-height: 23pt;
+    padding-bottom: 0; }
+  footer .footerblocks .postlist ul {
+    list-style: none;
+    padding-right: 15px;
+    direction: rtl; }
+    footer .footerblocks .postlist ul li {
+      margin-bottom: 15px;
+      font-size: 14pt;
+      border-bottom: solid 1pt #31363C;
+      padding-bottom: 17px; }
+      footer .footerblocks .postlist ul li figure {
+        border: solid 2pt #76A3CF; }
+        footer .footerblocks .postlist ul li figure img {
+          width: 100%;
+          max-width: 200px; }
+      footer .footerblocks .postlist ul li h4 {
+        direction: rtl;
+        font-size: 14pt;
+        margin-bottom: 5px;
+        margin-top: 3px; }
+      footer .footerblocks .postlist ul li p {
+        font-size: 10pt;
+        color: #76A3CF; }
+  footer .footerblocks .catlist ul {
+    list-style: none;
+    padding-right: 15px;
+    direction: rtl; }
+    footer .footerblocks .catlist ul li {
+      margin-bottom: 5px;
+      font-size: 14pt; }
+      footer .footerblocks .catlist ul li figure {
+        border: solid 2pt #76A3CF; }
+        footer .footerblocks .catlist ul li figure img {
+          width: 100%; }
+      footer .footerblocks .catlist ul li h4 {
+        direction: rtl;
+        font-size: 14pt;
+        margin-bottom: 5px;
+        margin-top: 3px; }
+      footer .footerblocks .catlist ul li p {
+        font-size: 10pt;
+        color: #76A3CF; }
+      footer .footerblocks .catlist ul li a span {
+        padding: 3px 10px 3px 10px;
+        border-bottom: solid 1pt #31363C; }
+  footer .footerblocks .commentlist ul {
+    list-style: none;
+    direction: rtl;
+    padding-right: 15px; }
+    footer .footerblocks .commentlist ul li {
+      margin-bottom: 15px;
+      font-size: 14pt; }
+      footer .footerblocks .commentlist ul li figure {
+        border: solid 2pt #76A3CF;
+        border-radius: 50%;
+        width: 60px;
+        height: 60px;
+        overflow: hidden; }
+        footer .footerblocks .commentlist ul li figure img {
+          width: 100%;
+          height: 100%; }
+      footer .footerblocks .commentlist ul li h4 {
+        direction: rtl;
+        font-size: 14pt;
+        margin-top: 3px;
+        margin-bottom: 0; }
+      footer .footerblocks .commentlist ul li h5 {
+        margin-top: 4px;
+        margin-bottom: 4px; }
+      footer .footerblocks .commentlist ul li p {
+        font-size: 10pt;
+        color: #76A3CF; }
+  footer .footerads2 {
+    text-align: center; }
+    footer .footerads2 figure img {
+      width: 100%; }
+  footer .copyright {
+    background-color: #151719;
+    margin-top: 25px; }
+    footer .copyright .tooltip {
+      font-size: 14pt;
+      font-family: irnazli; }
+    footer .copyright p {
+      font-size: 10pt;
+      margin-bottom: 0;
+      padding-top: 7px; }
+    footer .copyright ul {
+      list-style: none;
+      font-size: 13pt;
+      padding-right: 10px; }
+      footer .copyright ul li {
+        float: right;
+        margin-left: 12px;
+        line-height: 18px;
+        padding-top: 7px; }
+        footer .copyright ul li a {
+          color: #f0f0f0 !important; }
+          footer .copyright ul li a:hover {
+            color: #F59E31 !important;
+            text-decoration: none; }
+    footer .copyright .fa {
+      list-style: none;
+      font-size: 13pt;
+      padding-left: 0;
+      float: left;
+      margin-bottom: 3px; }
+      footer .copyright .fa li {
+        float: right;
+        margin-left: 12px; }
+        footer .copyright .fa li span:before {
+          font-size: 14pt; }
+        footer .copyright .fa li .icon-comslogo {
+          font-family: comsicon;
+          line-height: 15px; }
+          footer .copyright .fa li .icon-comslogo:before {
+            font-size: 16pt;
+            vertical-align: sub; }
+
+/*# sourceMappingURL=head-foot.css.map */

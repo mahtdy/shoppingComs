@@ -1,0 +1,31 @@
+.tab-content{}
+.secfhead{}
+.toolmenu span:before{  font-size: 18pt!important;}
+.sectitle .icon span:before{font-size: 18pt!important;}
+.sectitle .title .titr{font-size: 12pt!important;}
+.sectitle .title p{  line-height: 8px!important;}
+.option{text-align:center!important;width:auto!important;}
+.tab-content{padding:10px!important;border: 0!important;}
+.form-horizontal .control-label{line-height: 24px!important;float: none;}
+.fontent{
+    float: right!important;
+}
+.mset{
+    float: right!important;
+    border-right: 0!important;
+    border-left: 0!important;
+    border-bottom: 0!important;
+    border-top: 0!important;
+    background-color: white !important;
+}
+.msheet{border:0!important;}
+.dateinput{
+  width: 50%!important;
+}
+.tab-content>.active{
+  float: none;
+  margin: 0 auto;
+  width: 100%;
+}
+.nav{padding-left:15px;}
+.content{padding: 10px!important;}

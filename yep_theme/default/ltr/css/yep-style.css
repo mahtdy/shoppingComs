@@ -1,0 +1,12 @@
+:lang(ar) #swipebox-slider{
+     direction: ltr;
+}
+:lang(ar) #swipebox-title{
+     direction: rtl;
+}
+:lang(fa) #swipebox-slider{
+     direction: ltr;
+}
+:lang(fa) #swipebox-title{
+     direction: rtl;
+}

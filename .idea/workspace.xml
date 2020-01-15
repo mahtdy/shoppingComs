@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/New_ajax_product.php" line="1941" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d7938a3-039d-442e-8dc5-f9b14d75d699" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" afterPath="$PROJECT_DIR$/.vscode/settings.json" />
+      <change beforePath="$PROJECT_DIR$/New_members_ajax.php" afterPath="$PROJECT_DIR$/New_members_ajax.php" />
+      <change beforePath="$PROJECT_DIR$/new_dynamics/default/new_user_profile.php4" afterPath="$PROJECT_DIR$/new_dynamics/default/new_user_profile.php4" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/mylaravel/composer.json</pharConfigPath>
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/newcoms/ads/new_ads_cat.php4" />
+      <file url="file://$PROJECT_DIR$/newcoms/product/new_product.php4" />
+    </disable_hints>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="vertical" split-proportion="0.15277778">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="new_user_login_sms.php4" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/new_dynamics/default/new_user_login_sms.php4">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <marker date="1500448426000" expanded="true" signature="440:532" ph="SELECT sms_v... new_members" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="new_manager_sms_login.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/new_manager_sms_login.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <marker date="1480754214000" expanded="true" signature="1655:1740" ph="SELECT sms_v... new_managers" />
+                    <marker date="1480754214000" expanded="true" signature="1923:2010" ph="update new_managers... " />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="new_user_sms_validation.php4" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/new_dynamics/default/new_user_sms_validation.php4">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="41">
+                  <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+                  <folding>
+                    <marker date="1578412437860" expanded="true" signature="1110:1198" ph="SELECT sms_v... new_members" />
+                    <marker date="1578412437860" expanded="true" signature="1361:1444" ph="update new_members... " />
+                    <marker date="1578412437860" expanded="true" signature="1893:1998" ph="SELECT value... new_user_setting" />
+                    <marker date="1578412437860" expanded="true" signature="2018:2157" ph="..." />
+                    <marker date="1578412437860" expanded="true" signature="2163:2426" ph="..." />
+                    <marker date="1578412437860" expanded="true" signature="2177:2254" ph="update new_members... " />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/newcoms/function.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="24630">
+                  <caret line="2463" column="1" lean-forward="false" selection-start-line="2463" selection-start-column="1" selection-end-line="2463" selection-end-column="1" />
+                  <folding>
+                    <marker date="1578402668145" expanded="true" signature="2632:2738" ph="select count... ${$table_name}" />
+                    <marker date="1578402668145" expanded="true" signature="2781:3141" ph="select count... count" />
+                    <marker date="1578402668145" expanded="true" signature="2810:3138" ph="select count... ${$table_name}" />
+                    <marker date="1578402668145" expanded="true" signature="3170:3460" ph="select count... count" />
+                    <marker date="1578402668145" expanded="true" signature="3199:3457" ph="select count... ${$table_name}" />
+                    <marker date="1578402668145" expanded="true" signature="3796:3861" ph="select slide... new_slideshow" />
+                    <marker date="1578402668145" expanded="true" signature="3989:4081" ph="select adres... new_file_path" />
+                    <marker date="1578402668145" expanded="true" signature="4193:4248" ph="select table... new_modules" />
+                    <marker date="1578402668145" expanded="true" signature="8056:8120" ph="SELECT count... new_modules_cat" />
+                    <marker date="1578402668145" expanded="true" signature="8226:8281" ph="select table... new_modules" />
+                    <marker date="1578402668145" expanded="true" signature="8340:8395" ph="SELECT date " />
+                    <marker date="1578402668145" expanded="true" signature="8856:8903" ph="select id fr... new_modules" />
+                    <marker date="1578402668145" expanded="true" signature="8959:9094" ph="SELECT name new_modules_cat" />
+                    <marker date="1578402668145" expanded="true" signature="9313:9360" ph="select id fr... new_modules" />
+                    <marker date="1578402668145" expanded="true" signature="9417:9527" ph="SELECT name new_mudoal_label" />
+                    <marker date="1578402668145" expanded="true" signature="9821:9868" ph="select id fr... new_modules" />
+                    <marker date="1578402668145" expanded="true" signature="10537:10628" ph="SELECT adres... new_file_path" />
+                    <marker date="1578402668145" expanded="true" signature="11075:11202" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="11288:11421" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="11500:11625" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="11755:11882" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="11959:12086" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="12220:12341" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="12433:12570" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="12658:12791" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="12867:12988" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="13077:13211" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="13287:13408" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="13484:13605" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="13683:13806" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="13879:13997" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="14074:14196" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="14271:14391" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="14469:14592" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="14677:14807" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="14883:15004" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="15080:15201" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="15273:15390" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="15462:15579" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="15651:15768" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="15842:15961" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="16053:16190" ph="select pic_a... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="16293:16404" ph="SELECT id FR... new_menu" />
+                    <marker date="1578402668145" expanded="true" signature="16660:16771" ph="SELECT id FR... new_menu" />
+                    <marker date="1578402668145" expanded="true" signature="17028:17090" ph="SELECT count... new_user_online" />
+                    <marker date="1578402668145" expanded="true" signature="17802:17870" ph="SELECT * FRO... new_manage_lang" />
+                    <marker date="1578402668145" expanded="true" signature="18336:18404" ph="SELECT * FRO... new_manage_lang" />
+                    <marker date="1578402668145" expanded="true" signature="36341:36480" ph="SELECT * FRO... new_menu" />
+                    <marker date="1578402668145" expanded="true" signature="37070:37185" ph="SELECT name,... new_modules_cat" />
+                    <marker date="1578402668145" expanded="true" signature="41326:41438" ph="select * fro... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="43018:43063" ph="SELECT id FR... new_menu" />
+                    <marker date="1578402668145" expanded="true" signature="43209:43254" ph="SELECT id FR... new_menu" />
+                    <marker date="1578402668145" expanded="true" signature="43523:43683" ph="SELECT targe... new_menu" />
+                    <marker date="1578402668145" expanded="true" signature="44252:44465" ph="..." />
+                    <marker date="1578402668145" expanded="true" signature="44304:44465" ph="..." />
+                    <marker date="1578402668145" expanded="true" signature="45249:45351" ph="SELECT * FRO... new_modules_cat" />
+                    <marker date="1578402668145" expanded="true" signature="47302:47463" ph="..." />
+                    <marker date="1578402668145" expanded="true" signature="48796:48922" ph="SELECT unic_... new_main_menu" />
+                    <marker date="1578402668145" expanded="true" signature="49492:49653" ph="..." />
+                    <marker date="1578402668145" expanded="true" signature="49823:49989" ph="..." />
+                    <marker date="1578402668145" expanded="true" signature="50065:50137" ph="..." />
+                    <marker date="1578402668145" expanded="true" signature="50291:50364" ph="..." />
+                    <marker date="1578402668145" expanded="true" signature="50634:50876" ph="SELECT file_... new_main_menu" />
+                    <marker date="1578402668145" expanded="true" signature="51176:51241" ph="SELECT count... new_main_menu" />
+                    <marker date="1578402668145" expanded="true" signature="52103:52297" ph="SELECT count... new_madules_comment" />
+                    <marker date="1578402668145" expanded="true" signature="52410:52605" ph="SELECT count... new_madules_comment" />
+                    <marker date="1578402668145" expanded="true" signature="52718:52915" ph="SELECT count... new_madules_comment" />
+                    <marker date="1578402668145" expanded="true" signature="53027:53222" ph="SELECT count... new_madules_comment" />
+                    <marker date="1578402668145" expanded="true" signature="53335:53532" ph="SELECT count... new_madules_comment" />
+                    <marker date="1578402668145" expanded="true" signature="53648:53746" ph="select count... new_manager_pm" />
+                    <marker date="1578402668145" expanded="true" signature="53876:53967" ph="select count... new_contactus_pm" />
+                    <marker date="1578402668145" expanded="true" signature="54356:54436" ph="SELECT file_... new_main_menu" />
+                    <marker date="1578402668145" expanded="true" signature="56698:56733" ph="SELECT name,... new_language" />
+                    <marker date="1578402668145" expanded="true" signature="57456:57502" ph="SELECT id,na... new_subsite" />
+                    <marker date="1578402668145" expanded="true" signature="58042:58091" ph="SELECT title... new_subsite" />
+                    <marker date="1578402668145" expanded="true" signature="58629:58675" ph="SELECT id,na... new_subsite" />
+                    <marker date="1578402668145" expanded="true" signature="59101:59144" ph="SELECT name new_subsite" />
+                    <marker date="1578402668145" expanded="true" signature="59727:59770" ph="SELECT name new_subsite" />
+                    <marker date="1578402668145" expanded="true" signature="60296:60346" ph="SELECT title... new_language" />
+                    <marker date="1578402668145" expanded="true" signature="60929:60979" ph="SELECT title... new_language" />
+                    <marker date="1578402668145" expanded="true" signature="61506:61548" ph="SELECT id,us... new_managers" />
+                    <marker date="1578402668145" expanded="true" signature="62134:62176" ph="SELECT id,us... new_managers" />
+                    <marker date="1578402668145" expanded="true" signature="62707:62743" ph="SELECT id,us... new_members" />
+                    <marker date="1578402668145" expanded="true" signature="63294:63338" ph="SELECT user_... new_managers" />
+                    <marker date="1578402668145" expanded="true" signature="63851:64041" ph="SELECT icon,... new_main_menu" />
+                    <marker date="1578402668145" expanded="true" signature="64070:64272" ph="SELECT icon,... new_main_menu" />
+                    <marker date="1578402668145" expanded="true" signature="65058:65284" ph="SELECT id,na... new_modules_cat" />
+                    <marker date="1578402668145" expanded="true" signature="65930:66158" ph="SELECT id,na... new_modules_cat" />
+                    <marker date="1578402668145" expanded="true" signature="68908:69048" ph="SELECT id,na... new_modules_cat" />
+                    <marker date="1578402668145" expanded="true" signature="69532:69667" ph="SELECT id,na... new_modules_cat" />
+                    <marker date="1578402668145" expanded="true" signature="70102:70309" ph="SELECT id,na... new_modules_cat" />
+                    <marker date="1578402668145" expanded="true" signature="70994:71175" ph="SELECT * FRO... new_modules_cat" />
+                    <marker date="1578402668145" expanded="true" signature="72066:72249" ph="SELECT count... " />
+                    <marker date="1578402668145" expanded="true" signature="72470:72522" ph="select count... " />
+                    <marker date="1578402668145" expanded="true" signature="72992:73051" ph="select user_... new_managers" />
+                    <marker date="1578402668145" expanded="true" signature="73545:73589" ph="select id fr... new_managers" />
+                    <marker date="1578402668145" expanded="true" signature="73970:74013" ph="select id fr... new_groups" />
+                    <marker date="1578402668145" expanded="true" signature="74457:74561" ph="SELECT id fr... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="74725:74907" ph="update new_tem_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="75062:75230" ph="insert into new_tem_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="75483:75586" ph="SELECT id fr... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="75765:75942" ph="update new_tem_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="76097:76260" ph="insert into new_tem_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="76486:76668" ph="update new_tem_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="76914:77082" ph="insert into new_tem_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="77351:77535" ph="insert into new_menu_tabs_shop... " />
+                    <marker date="1578402668145" expanded="true" signature="77748:77915" ph="update new_menu_tabs_shop... " />
+                    <marker date="1578402668145" expanded="true" signature="78086:78184" ph="select * fro... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="78626:78810" ph="insert into new_menu_tabs_shop... " />
+                    <marker date="1578402668145" expanded="true" signature="79022:79189" ph="update new_menu_tabs_shop... " />
+                    <marker date="1578402668145" expanded="true" signature="79369:79458" ph="SELECT id fr... new_ads_setting" />
+                    <marker date="1578402668145" expanded="true" signature="79619:79753" ph="update new_ads_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="79820:79963" ph="insert into new_ads_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="80095:80182" ph="SELECT id fr... new_modual_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="80279:80377" ph="update new_modual_tem_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="80444:80536" ph="insert into new_modual_tem_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="80707:80875" ph="insert into new_tem_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="81284:81387" ph="select * fro... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="81723:81822" ph="select value... new_ads_setting" />
+                    <marker date="1578402668145" expanded="true" signature="82008:82097" ph="select value... new_modual_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="82310:82440" ph="SELECT * FRO... new_menu" />
+                    <marker date="1578402668145" expanded="true" signature="82715:82792" ph="..." />
+                    <marker date="1578402668145" expanded="true" signature="83052:83182" ph="SELECT * FRO... new_menu" />
+                    <marker date="1578402668145" expanded="true" signature="83457:83534" ph="..." />
+                    <marker date="1578402668145" expanded="true" signature="83747:83787" ph="SELECT title... new_language" />
+                    <marker date="1578402668145" expanded="true" signature="83959:84004" ph="SELECT id FR... new_language" />
+                    <marker date="1578402668145" expanded="true" signature="84190:84235" ph="SELECT align... new_language" />
+                    <marker date="1578402668145" expanded="true" signature="84454:84502" ph="SELECT align... new_language" />
+                    <marker date="1578402668145" expanded="true" signature="84712:84755" ph="SELECT id FR... new_subsite" />
+                    <marker date="1578402668145" expanded="true" signature="84924:84956" ph="select * fro... new_sms_webservice" />
+                    <marker date="1578402668145" expanded="true" signature="86195:86217" ph="insert into ${$tbl_name}... " />
+                    <marker date="1578402668145" expanded="true" signature="86740:86874" ph="select id,pi... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="87338:87358" ph="update ${$tbl_name}... " />
+                    <marker date="1578402668145" expanded="true" signature="91373:91465" ph="select sum(c... new_module_view" />
+                    <marker date="1578402668145" expanded="true" signature="91664:91737" ph="select count... new_module_view" />
+                    <marker date="1578402668145" expanded="true" signature="92311:92340" ph="delete from ${$tbl_name}" />
+                    <marker date="1578402668145" expanded="true" signature="92951:93099" ph="select block... new_block_location" />
+                    <marker date="1578402668145" expanded="true" signature="93865:93913" ph="select title... new_blocks" />
+                    <marker date="1578402668145" expanded="true" signature="94632:94782" ph="select block... new_block_location" />
+                    <marker date="1578402668145" expanded="true" signature="95286:95323" ph="select text new_blocks" />
+                    <marker date="1578402668145" expanded="true" signature="97069:97201" ph="select publi... ${$tbl_name}" />
+                    <marker date="1578402668145" expanded="true" signature="99925:99999" ph="select adres... new_file_path" />
+                    <marker date="1578402668145" expanded="true" signature="100097:100176" ph="select adres... new_file_path" />
+                    <marker date="1578402668145" expanded="true" signature="100277:100360" ph="select adres... new_file_path" />
+                    <marker date="1578402668145" expanded="true" signature="100712:100787" ph="select manag... new_manage_lang" />
+                    <marker date="1578402668145" expanded="true" signature="100941:101042" ph="select manag... new_manage_lang" />
+                    <marker date="1578402668145" expanded="true" signature="101316:101377" ph="select tem_n... new_active_template" />
+                    <marker date="1578402668145" expanded="true" signature="101988:102050" ph="update new_keyword... " />
+                    <marker date="1578402668145" expanded="true" signature="102509:102665" ph="select sum(v... " />
+                    <marker date="1578402668145" expanded="true" signature="104154:104226" ph="select count... new_madules_comment" />
+                    <marker date="1578402668145" expanded="true" signature="105643:105716" ph="SELECT label... new_mudoal_label" />
+                    <marker date="1578402668145" expanded="true" signature="106032:106138" ph="SELECT name new_keyword" />
+                    <marker date="1578402668145" expanded="true" signature="106448:106558" ph="SELECT name new_keyword" />
+                    <marker date="1578402668145" expanded="true" signature="106904:107066" ph="SELECT a.nam... new_modules_cat" />
+                    <marker date="1578402668145" expanded="true" signature="107520:107641" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="107729:107856" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="107936:108055" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="108202:108323" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="108417:108538" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="108728:108855" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="108947:109062" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="109180:109308" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="109400:109515" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="109607:109722" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="109818:109935" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="110021:110133" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="110227:110343" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="110433:110547" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="110643:110760" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="110870:110994" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="111086:111201" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="111293:111408" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="111492:111603" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="111687:111798" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="111882:111993" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="112081:112194" ph="select text new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="115147:115220" ph="select meta_... ${$table}" />
+                    <marker date="1578402668145" expanded="true" signature="115432:115509" ph="select meta_... ${$table}" />
+                    <marker date="1578402668145" expanded="true" signature="116015:116137" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="116225:116353" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="116433:116553" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="116700:116822" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="116916:117038" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="117236:117368" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="117484:117612" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="117704:117820" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="117938:118067" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="118159:118275" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="118367:118483" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="118579:118697" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="118783:118896" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="118990:119107" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="119197:119312" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="119408:119526" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="119636:119761" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="119853:119969" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="120061:120177" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="120261:120373" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="120457:120569" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="120653:120765" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="120853:120967" ph="select title... new_tem_setting" />
+                    <marker date="1578402668145" expanded="true" signature="123619:123688" ph="select meta_... ${$table}" />
+                    <marker date="1578402668145" expanded="true" signature="123870:123941" ph="select meta_... ${$table}" />
+                    <marker date="1578402668145" expanded="true" signature="124402:124532" ph="SELECT * FRO... new_menu" />
+                    <marker date="1578402668145" expanded="true" signature="125597:125664" ph="SELECT count... new_module_view" />
+                    <marker date="1578402668145" expanded="true" signature="125766:125850" ph="update new_module_view... " />
+                    <marker date="1578402668145" expanded="true" signature="125943:126015" ph="insert into new_module_view... " />
+                    <marker date="1578402668145" expanded="true" signature="126970:127018" ph="SELECT name,... new_groups" />
+                    <marker date="1578402668145" expanded="true" signature="127525:127618" ph="SELECT id fr... new_static_page_setting" />
+                    <marker date="1578402668145" expanded="true" signature="128124:128344" ph="insert into new_static_page_setting... " />
+                    <marker date="1578402668145" expanded="true" signature="128550:128671" ph="select * fro... new_static_page_setting" />
+                    <marker date="1578402668145" expanded="true" signature="129033:129149" ph="select * fro... new_static_page_setting" />
+                    <marker date="1578402668145" expanded="true" signature="134542:134606" ph="select seo_t... ${$table}" />
+                    <marker date="1578402668145" expanded="true" signature="134788:134853" ph="select seo_t... ${$table}" />
+                    <marker date="1578402668145" expanded="true" signature="135232:135303" ph="select * fro... new_company_catalog" />
+                    <marker date="1578402668145" expanded="true" signature="135971:136102" ph="SELECT id fr... new_company_catalog" />
+                    <marker date="1578402668145" expanded="true" signature="136374:136611" ph="update new_company_catalog... " />
+                    <marker date="1578402668145" expanded="true" signature="136768:136984" ph="insert into new_company_catalog... " />
+                    <marker date="1578402668145" expanded="true" signature="137219:137302" ph="select * fro... new_setting_pic_resize" />
+                    <marker date="1578402668145" expanded="true" signature="137942:138068" ph="SELECT id fr... new_setting_pic_resize" />
+                    <marker date="1578402668145" expanded="true" signature="138336:138555" ph="update new_setting_pic_resize... " />
+                    <marker date="1578402668145" expanded="true" signature="138712:138911" ph="insert into new_setting_pic_resize... " />
+                    <marker date="1578402668145" expanded="true" signature="139179:139287" ph="SELECT * FRO... new_company_cat_brand" />
+                    <marker date="1578402668145" expanded="true" signature="140435:140596" ph="..." />
+                    <marker date="1578402668145" expanded="true" signature="140829:140876" ph="select count... new_faq" />
+                    <marker date="1578402668145" expanded="true" signature="141258:141318" ph="select count... new_modules_catogory" />
+                    <marker date="1578402668145" expanded="true" signature="141915:142022" ph="SELECT * FRO... new_company_cat_type" />
+                    <marker date="1578402668145" expanded="true" signature="143170:143331" ph="..." />
+                    <marker date="1578402668145" expanded="true" signature="143564:143611" ph="select count... new_faq" />
+                    <marker date="1578402668145" expanded="true" signature="143993:144053" ph="select count... new_modules_catogory" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="information_Page.php4" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/new_dynamics/default/profile/information_Page.php4">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="200">
+                  <caret line="20" column="106" lean-forward="false" selection-start-line="20" selection-start-column="106" selection-end-line="20" selection-end-column="106" />
+                  <folding>
+                    <marker date="1578413992176" expanded="true" signature="10:100" ph="SELECT email... new_members" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="new_user_profile.php4" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/new_dynamics/default/new_user_profile.php4">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3990">
+                  <caret line="399" column="0" lean-forward="false" selection-start-line="399" selection-start-column="0" selection-end-line="399" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="profile.php4" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/new_dynamics/default/profile/profile.php4">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="35" selection-end-column="26" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="social_networks.php4" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/new_dynamics/default/profile/social_networks.php4">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <marker date="1475388012000" expanded="true" signature="10:113" ph="SELECT insta... new_members" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="new_register.php4" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/new_dynamics/default/new_register.php4">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="515">
+                  <caret line="264" column="105" lean-forward="false" selection-start-line="264" selection-start-column="52" selection-end-line="264" selection-end-column="105" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SoapClient</find>
+      <find>sms</find>
+      <find>ok_config_sms</find>
+      <find>check_users</find>
+      <find>pdesc</find>
+      <find>valid</find>
+      <find>function sms</find>
+      <find>function send_sms</find>
+      <find>sms_validation</find>
+      <find>send_sms</find>
+      <find>pagename_p</find>
+      <find>show_check_box</find>
+      <find>check_ajax_user</find>
+      <find>name=&quot;email_p&quot;</find>
+      <find>show_email_box</find>
+      <find>name=&quot;about_me&quot;</find>
+      <find>class=&quot;row profile&quot;</find>
+      <find>check_ajax_email</find>
+      <find>email_p</find>
+      <find>id=&quot;a&quot;</find>
+      <find>profile_li</find>
+      <find>tab-s2</find>
+      <find>tab-s3</find>
+      <find>tab-s1</find>
+      <find>acount_li</find>
+      <find>submit</find>
+      <find>list-group-item.active</find>
+      <find>list-group-item</find>
+      <find>background-color</find>
+      <find>list-group-item active</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>insert_templdate_page</replace>
+      <replace>New_ajax_pages.</replace>
+      <replace>$pic_str_content</replace>
+      <replace>del_second_choice_boxFive</replace>
+      <replace>New_ajax_pages</replace>
+      <replace>vazn_x</replace>
+      <replace>vazn_y</replace>
+      <replace>vazn_z</replace>
+      <replace>New_ajax_pages.php</replace>
+      <replace>_</replace>
+      <replace>div_mother_second_choicedel_second_choice_boxFive</replace>
+      <replace>get_tem_result_page_plus(</replace>
+      <replace>news</replace>
+      <replace>content</replace>
+      <replace>gallery</replace>
+      <replace>all</replace>
+      <replace>del_menu_color</replace>
+      <replace>del_menu_size</replace>
+      <replace>edit_menu_color</replace>
+      <replace>edit_menu_size</replace>
+      <replace>dd</replace>
+      <replace>jsonstring_size</replace>
+      <replace>updateOutput_size</replace>
+      <replace>true</replace>
+      <replace>col-sm-9</replace>
+      <replace>nestableMenu_size</replace>
+      <replace>size</replace>
+      <replace>New_ajax_product.</replace>
+      <replace>موجودی و قیمت</replace>
+      <replace>&amp;&amp;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\new_dynamics\azarakhshLED</dir>
+      <dir>C:\xampp\htdocs\new_dynamics\default</dir>
+      <dir>C:\xampp\htdocs\new_template\azarakhshLED</dir>
+      <dir>C:\xampp\htdocs\new_template\doctorsheikhi</dir>
+      <dir>C:\xampp\htdocs\new_template\drsheikhi</dir>
+      <dir>C:\xampp\htdocs\new_dynamics\drsheikhi</dir>
+      <dir>C:\xampp\htdocs\new_dynamics\resound</dir>
+      <dir>C:\xampp\htdocs\new_template\resound</dir>
+      <dir>C:\xampp\htdocs\yep_theme</dir>
+      <dir>C:\xampp\</dir>
+      <dir>C:\xampp\htdocs\test</dir>
+      <dir>C:\xampp\htdocs\test\map</dir>
+      <dir>C:\xampp\htdocs\newcoms</dir>
+      <dir>C:\xampp\htdocs</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/newcoms/company/new_company_brand.php4" />
+        <option value="$PROJECT_DIR$/newcoms/content/new_Pages.php4" />
+        <option value="$PROJECT_DIR$/newcoms/product/new_product_fields.php4" />
+        <option value="$PROJECT_DIR$/test/p1.php" />
+        <option value="$PROJECT_DIR$/test/p2.php4" />
+        <option value="$PROJECT_DIR$/languages/fa.php" />
+        <option value="$PROJECT_DIR$/yep_theme/default/rtl/js/tinymce/plugins/link/plugin.min.js" />
+        <option value="$PROJECT_DIR$/yep_theme/default/rtl/js/ckeditor/ckeditor.js" />
+        <option value="$PROJECT_DIR$/yep_theme/default/rtl/js/tinymce/tinymce.min.js" />
+        <option value="$USER_HOME$/Pictures/new_modual_catogory.php4" />
+        <option value="$PROJECT_DIR$/yep_theme/default/rtl/js/ckeditor/config.js" />
+        <option value="$PROJECT_DIR$/yep_theme/default/rtl/js/tinymce/plugins/link/plugin.js" />
+        <option value="$PROJECT_DIR$/yep_theme/default/rtl/js/ckeditor/plugins/link/dialogs/link.js" />
+        <option value="$PROJECT_DIR$/newcoms/p/p2.php4" />
+        <option value="$PROJECT_DIR$/yep_theme/default/rtl/js/ckeditor/plugins/dialog/styles/dialog.css" />
+        <option value="$PROJECT_DIR$/new_product_rang_color_size.php" />
+        <option value="$PROJECT_DIR$/new_product_rang_color.php" />
+        <option value="$PROJECT_DIR$/newcoms/product/new_product_color_size.php4" />
+        <option value="$PROJECT_DIR$/ajax_js/product_color_size.js" />
+        <option value="$PROJECT_DIR$/yep_theme/default/rtl/js/menubar/product_size.js" />
+        <option value="$PROJECT_DIR$/new_product_rang_size.php" />
+        <option value="$PROJECT_DIR$/yep_theme/default/rtl/js/menubar/product_color.js" />
+        <option value="$PROJECT_DIR$/newcoms/p/p1.php4" />
+        <option value="$PROJECT_DIR$/newcoms/index2.php4" />
+        <option value="$PROJECT_DIR$/newcoms/subsite/new_manager.php4" />
+        <option value="$PROJECT_DIR$/newcoms/main/new_modual_catogory.php4" />
+        <option value="$PROJECT_DIR$/newcoms/product/new_product_mini_vijen.php4" />
+        <option value="$PROJECT_DIR$/newcoms/product/new_product_barrasi.php4" />
+        <option value="$PROJECT_DIR$/test/testest.php" />
+        <option value="$PROJECT_DIR$/New_ajax.php" />
+        <option value="$PROJECT_DIR$/newcoms/product/new_product_manager_anbar.php4" />
+        <option value="$PROJECT_DIR$/test/chart.php" />
+        <option value="$PROJECT_DIR$/ajax_js/product_mojodi.js" />
+        <option value="$PROJECT_DIR$/test/test.php" />
+        <option value="$PROJECT_DIR$/newcoms/product/new_product_brand.php4" />
+        <option value="$USER_HOME$/Music/fa.php" />
+        <option value="$USER_HOME$/Music/function.php" />
+        <option value="$PROJECT_DIR$/newcoms/product/new_product_cat_barrasi.php4" />
+        <option value="$PROJECT_DIR$/newcoms/main/new_modual_cat.php4" />
+        <option value="$PROJECT_DIR$/newcoms/product/new_product_cat_esp.php4" />
+        <option value="$PROJECT_DIR$/newcoms/product/new_product.php4" />
+        <option value="$USER_HOME$/Music/new_product.php4" />
+        <option value="$PROJECT_DIR$/newcoms/product/new_product_mojodi.php4" />
+        <option value="$PROJECT_DIR$/newcoms/company/new_company_text.php4" />
+        <option value="$PROJECT_DIR$/New_ajax_product.php" />
+        <option value="$PROJECT_DIR$/newcoms/function.php" />
+        <option value="$PROJECT_DIR$/new_dynamics/default/new_user_sms_validation.php4" />
+        <option value="$PROJECT_DIR$/new_dynamics/default/new_register.php4" />
+        <option value="$PROJECT_DIR$/new_dynamics/default/profile/information_Page.php4" />
+        <option value="$PROJECT_DIR$/new_dynamics/default/profile/profile.php4" />
+        <option value="$PROJECT_DIR$/new_dynamics/default/new_user_profile.php4" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/mylaravel/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/composer" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/mylaravel/vendor/doctrine/instantiator" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="new_dynamics" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="new_dynamics" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="social_networks&#9;FILE&#9;file://C:/xampp/htdocs/new_dynamics/default/profile/social_networks.php4&#10;profile.php4&#9;FILE&#9;file://C:/xampp/htdocs/new_dynamics/default/profile/profile.php4&#10;sms_validation&#9;FILE&#9;file://C:/xampp/htdocs/new_dynamics/default/new_user_sms_validation.php4&#10;New_members_ajax&#9;FILE&#9;file://C:/xampp/htdocs/New_members_ajax.php&#10;new_company.php4&#9;FILE&#9;file://C:/xampp/htdocs/new_dynamics/default/new_company.php4&#10;New_ajax_product&#9;FILE&#9;file://C:/xampp/htdocs/New_ajax_product.php&#10;mojodi&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product_mojodi.php4&#10;new_modual_catogory&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/main/new_modual_catogory.php4&#10;produ&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product.php4&#10;new_create_main_menu_product1_nazar&#9;FILE&#9;file://C:/xampp/htdocs/new_create_main_menu_product1_nazar.php&#10;new_modual_cat&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/main/new_modual_cat.php4&#10;new_company_cat&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/company/new_company_cat.php4&#10;new_product_cat_barrasi&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product_cat_barrasi.php4&#10;brand&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product_brand.php4&#10;vijen&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product_mini_vijen.php4&#10;_chrt.php&#9;null&#9;null&#10;new_product_manager_anbar&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product_manager_anbar.php4&#10;new_aja&#9;FILE&#9;file://C:/xampp/htdocs/New_ajax.php&#10;new_product_cat_esp&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product_cat_esp.php4&#10;new_product_barrasi&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product_barrasi.php4&#10;new_product_mini_vijen&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product_mini_vijen.php4&#10;modual_cat.php4&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/main/new_modual_cat.php4&#10;cat&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/main/new_modual_catogory.php4&#10;p1&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/p/p1.php4&#10;news.php&#9;FILE&#9;file://C:/xampp/htdocs/new_blocks/news_search.php4&#10;pro&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product.php4&#10;brand.ph&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product_brand.php4&#10;company&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/company/new_company_text.php4&#10;_product.php4&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product.php4&#10;new_product_rang_size&#9;FILE&#9;file://C:/xampp/htdocs/new_product_rang_size.php&#10;product_onvan_barr&#9;FILE&#9;file://C:/xampp/htdocs/ajax_js/product_onvan_barr.js&#10;new_product_rang_onvan_barr&#9;FILE&#9;file://C:/xampp/htdocs/new_product_rang_onvan_barr.php&#10;head&#9;null&#9;null&#10;زخئ&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/company/new_company_text.php4&#10;fa&#9;FILE&#9;file://C:/xampp/htdocs/languages/fa.php&#10;new_product_fields&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product_fields.php4&#10;_cat&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/main/new_modual_catogory.php4&#10;_mazaya&#9;null&#9;null&#10;New_ajax_pages&#9;FILE&#9;file://C:/xampp/htdocs/New_ajax_pages.php&#10;new_company_brand&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/company/new_company_brand.php4&#10;New_ajax&#9;FILE&#9;file://C:/xampp/htdocs/New_ajax.php&#10;new_tem_setting&#9;FILE&#9;file://C:/xampp/htdocs/new_template/drbanihosseini/new_tem_setting.php4&#10;new_create_main_menu_product1&#9;FILE&#9;file://C:/xampp/htdocs/new_create_main_menu_product1_filter.php&#10;cat_cat&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/product/new_product_cat_cat.php4&#10;New_&#9;FILE&#9;file://C:/xampp/htdocs/New_ajax_product.php&#10;seo&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/main/new_modual_seo.php4&#10;function&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/function.php&#10;company.js&#9;FILE&#9;file://C:/xampp/htdocs/ajax_js/company.js&#10;.js&#9;FILE&#9;file://C:/xampp/htdocs/ajax_js/product.js&#10;new_modual_seo&#9;FILE&#9;file://C:/xampp/htdocs/newcoms/main/new_modual_seo.php4" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ajax_js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.content.js">
+    <configuration name="new_company_text.php4" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/htdocs/newcoms/company/new_company_text.php4" />
+    <configuration name="resize.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/htdocs/test/resize.php" />
+    <configuration name="content.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="content.js" working-dir="G:/hack/Crash" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.resize.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.new_company_text.php4" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.content.js" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.content.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.new_company_text.php4" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.resize.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d7938a3-039d-442e-8dc5-f9b14d75d699" name="Default" comment="" />
+      <created>1526204876393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526204876393</updated>
+      <workItem from="1526204879156" duration="18270000" />
+      <workItem from="1526274136632" duration="160000" />
+      <workItem from="1526276894635" duration="17375000" />
+      <workItem from="1526300652025" duration="5653000" />
+      <workItem from="1526359560859" duration="31362000" />
+      <workItem from="1526446482463" duration="8906000" />
+      <workItem from="1526457430772" duration="638000" />
+      <workItem from="1526462908312" duration="10422000" />
+      <workItem from="1526532591160" duration="966000" />
+      <workItem from="1526533668492" duration="26698000" />
+      <workItem from="1526706742192" duration="26169000" />
+      <workItem from="1526737780173" duration="447000" />
+      <workItem from="1526792175142" duration="17734000" />
+      <workItem from="1526813444556" duration="11281000" />
+      <workItem from="1526879385879" duration="7734000" />
+      <workItem from="1526887992552" duration="3761000" />
+      <workItem from="1526894362063" duration="1599000" />
+      <workItem from="1526897291597" duration="14172000" />
+      <workItem from="1526964807273" duration="28803000" />
+      <workItem from="1527051275164" duration="18701000" />
+      <workItem from="1527073187897" duration="1232000" />
+      <workItem from="1527407427907" duration="3870000" />
+      <workItem from="1531728474979" duration="26513000" />
+      <workItem from="1532248317408" duration="32695000" />
+      <workItem from="1532523192141" duration="4966000" />
+      <workItem from="1532586060392" duration="214262000" />
+      <workItem from="1534069681739" duration="135632000" />
+      <workItem from="1535539296186" duration="16969000" />
+      <workItem from="1536155607291" duration="6733000" />
+      <workItem from="1536229294239" duration="11035000" />
+      <workItem from="1536575585857" duration="76249000" />
+      <workItem from="1537948381943" duration="68421000" />
+      <workItem from="1538389072143" duration="78137000" />
+      <workItem from="1538988719187" duration="57368000" />
+      <workItem from="1539242881551" duration="59258000" />
+      <workItem from="1539687753219" duration="6338000" />
+      <workItem from="1542795479567" duration="87108000" />
+      <workItem from="1544022042955" duration="1661000" />
+      <workItem from="1544258461665" duration="19341000" />
+      <workItem from="1544439622595" duration="82149000" />
+      <workItem from="1545206034687" duration="161423000" />
+      <workItem from="1546864384369" duration="49509000" />
+      <workItem from="1547885703158" duration="27662000" />
+      <workItem from="1548489634984" duration="42974000" />
+      <workItem from="1548857294296" duration="38295000" />
+      <workItem from="1550071600966" duration="15531000" />
+      <workItem from="1550324366492" duration="532000" />
+      <workItem from="1550324924948" duration="1593000" />
+      <workItem from="1550326541496" duration="3556000" />
+      <workItem from="1550330128022" duration="69155000" />
+      <workItem from="1550996887622" duration="150948000" />
+      <workItem from="1552809741539" duration="67969000" />
+      <workItem from="1553592361132" duration="53153000" />
+      <workItem from="1554804670454" duration="41237000" />
+      <workItem from="1555749720563" duration="11713000" />
+      <workItem from="1556438147518" duration="30361000" />
+      <workItem from="1556947798298" duration="45712000" />
+      <workItem from="1557301802026" duration="18166000" />
+      <workItem from="1557569946533" duration="56015000" />
+      <workItem from="1569677419832" duration="3202000" />
+      <workItem from="1569840523304" duration="9295000" />
+      <workItem from="1570006509575" duration="73707000" />
+      <workItem from="1570351129346" duration="30910000" />
+      <workItem from="1570521057455" duration="20934000" />
+      <workItem from="1570693560111" duration="12974000" />
+      <workItem from="1570788185707" duration="18978000" />
+      <workItem from="1570959149895" duration="31620000" />
+      <workItem from="1571137143195" duration="15343000" />
+      <workItem from="1571310147014" duration="5579000" />
+      <workItem from="1571571600214" duration="7580000" />
+      <workItem from="1571644984000" duration="35378000" />
+      <workItem from="1571903816048" duration="63094000" />
+      <workItem from="1573294521472" duration="16783000" />
+      <workItem from="1573372134969" duration="29554000" />
+      <workItem from="1573545910451" duration="2289000" />
+      <workItem from="1573551921547" duration="3697000" />
+      <workItem from="1573830154642" duration="3817000" />
+      <workItem from="1573892959753" duration="54414000" />
+      <workItem from="1574096950588" duration="14246000" />
+      <workItem from="1574162962771" duration="1786000" />
+      <workItem from="1574166033018" duration="17811000" />
+      <workItem from="1574331706225" duration="10718000" />
+      <workItem from="1574531554539" duration="1267000" />
+      <workItem from="1574532886865" duration="9710000" />
+      <workItem from="1574672849573" duration="68231000" />
+      <workItem from="1575018767185" duration="119979000" />
+      <workItem from="1575806030402" duration="2155000" />
+      <workItem from="1575822064409" duration="37377000" />
+      <workItem from="1576141087497" duration="48106000" />
+      <workItem from="1576571882395" duration="4670000" />
+      <workItem from="1576588201592" duration="5992000" />
+      <workItem from="1576595502917" duration="3453000" />
+      <workItem from="1576661897127" duration="7303000" />
+      <workItem from="1576757473187" duration="26007000" />
+      <workItem from="1576999114351" duration="12969000" />
+      <workItem from="1577090203579" duration="13989000" />
+      <workItem from="1577192469245" duration="11965000" />
+      <workItem from="1577515037975" duration="10944000" />
+      <workItem from="1577604380750" duration="8921000" />
+      <workItem from="1577621280918" duration="12843000" />
+      <workItem from="1577640457145" duration="5889000" />
+      <workItem from="1577700112271" duration="8913000" />
+      <workItem from="1577802922556" duration="445000" />
+      <workItem from="1577804141532" duration="7088000" />
+      <workItem from="1577866443971" duration="3972000" />
+      <workItem from="1577968150494" duration="6672000" />
+      <workItem from="1578123569377" duration="17843000" />
+      <workItem from="1578294663834" duration="2753000" />
+      <workItem from="1578323734305" duration="61000" />
+      <workItem from="1578323796989" duration="2359000" />
+      <workItem from="1578382864416" duration="23154000" />
+      <workItem from="1578499086708" duration="591000" />
+      <workItem from="1578550992481" duration="763000" />
+      <workItem from="1578552293665" duration="648000" />
+      <workItem from="1578553007120" duration="1662000" />
+      <workItem from="1578559715100" duration="1763000" />
+      <workItem from="1578994688919" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3100495000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="676" y="0" width="697" height="745" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.146875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32777777" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32533333" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29324323" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32777777" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32803467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/new_dynamics/ebnesinahospital/new_Search.php4</url>
+          <line>1144</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/New_ajax.php</url>
+          <line>15012</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/newcoms/agahi/new_agahi_text.php4</url>
+          <line>1</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/New_ajax_company.php</url>
+          <line>808</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/new_dynamics/default/new_product.php4</url>
+          <line>123</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/newcoms/product/new_product_fields.php4</url>
+          <line>148</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/New_ajax_pages.php</url>
+          <line>32350</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/newcoms/main/new_manager_profile.php4</url>
+          <line>204</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://D:/HeydarMoradi/Handball/app.js</url>
+          <line>51</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="72" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/UnderConstruction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpsocket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loader-wizard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_Mysqldump.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_answer_question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_change_password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_create_block_sort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_create_madual_cat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_create_main_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_create_main_menu_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_create_main_menu_product1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_create_main_menu_product1_filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_create_main_menu_product1_nazar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_create_main_menu_product2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_dynamic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_email_reset_passwrod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_htaccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_lock_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_manager_signout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_member_answer_question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_member_change_password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_members_email_active.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_members_email_reset_passwrod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_menuSortableSave.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_product_rang_cat_nazar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_product_rang_size.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_product_rang_color.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_product_rang_onvan_barr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tele-bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qaz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_answer_member_qestion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_ajax_backup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoms/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoms/template/setting_profile_tem.php4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3971">
+          <caret line="1842" column="115" lean-forward="false" selection-start-line="1842" selection-start-column="115" selection-end-line="1842" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoms/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24630">
+          <caret line="2463" column="1" lean-forward="false" selection-start-line="2463" selection-start-column="1" selection-end-line="2463" selection-end-column="1" />
+          <folding>
+            <marker date="1578402668145" expanded="true" signature="2632:2738" ph="select count... ${$table_name}" />
+            <marker date="1578402668145" expanded="true" signature="2781:3141" ph="select count... count" />
+            <marker date="1578402668145" expanded="true" signature="2810:3138" ph="select count... ${$table_name}" />
+            <marker date="1578402668145" expanded="true" signature="3170:3460" ph="select count... count" />
+            <marker date="1578402668145" expanded="true" signature="3199:3457" ph="select count... ${$table_name}" />
+            <marker date="1578402668145" expanded="true" signature="3796:3861" ph="select slide... new_slideshow" />
+            <marker date="1578402668145" expanded="true" signature="3989:4081" ph="select adres... new_file_path" />
+            <marker date="1578402668145" expanded="true" signature="4193:4248" ph="select table... new_modules" />
+            <marker date="1578402668145" expanded="true" signature="8056:8120" ph="SELECT count... new_modules_cat" />
+            <marker date="1578402668145" expanded="true" signature="8226:8281" ph="select table... new_modules" />
+            <marker date="1578402668145" expanded="true" signature="8340:8395" ph="SELECT date " />
+            <marker date="1578402668145" expanded="true" signature="8856:8903" ph="select id fr... new_modules" />
+            <marker date="1578402668145" expanded="true" signature="8959:9094" ph="SELECT name new_modules_cat" />
+            <marker date="1578402668145" expanded="true" signature="9313:9360" ph="select id fr... new_modules" />
+            <marker date="1578402668145" expanded="true" signature="9417:9527" ph="SELECT name new_mudoal_label" />
+            <marker date="1578402668145" expanded="true" signature="9821:9868" ph="select id fr... new_modules" />
+            <marker date="1578402668145" expanded="true" signature="10537:10628" ph="SELECT adres... new_file_path" />
+            <marker date="1578402668145" expanded="true" signature="11075:11202" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="11288:11421" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="11500:11625" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="11755:11882" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="11959:12086" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="12220:12341" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="12433:12570" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="12658:12791" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="12867:12988" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="13077:13211" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="13287:13408" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="13484:13605" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="13683:13806" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="13879:13997" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="14074:14196" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="14271:14391" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="14469:14592" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="14677:14807" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="14883:15004" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="15080:15201" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="15273:15390" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="15462:15579" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="15651:15768" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="15842:15961" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="16053:16190" ph="select pic_a... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="16293:16404" ph="SELECT id FR... new_menu" />
+            <marker date="1578402668145" expanded="true" signature="16660:16771" ph="SELECT id FR... new_menu" />
+            <marker date="1578402668145" expanded="true" signature="17028:17090" ph="SELECT count... new_user_online" />
+            <marker date="1578402668145" expanded="true" signature="17802:17870" ph="SELECT * FRO... new_manage_lang" />
+            <marker date="1578402668145" expanded="true" signature="18336:18404" ph="SELECT * FRO... new_manage_lang" />
+            <marker date="1578402668145" expanded="true" signature="36341:36480" ph="SELECT * FRO... new_menu" />
+            <marker date="1578402668145" expanded="true" signature="37070:37185" ph="SELECT name,... new_modules_cat" />
+            <marker date="1578402668145" expanded="true" signature="41326:41438" ph="select * fro... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="43018:43063" ph="SELECT id FR... new_menu" />
+            <marker date="1578402668145" expanded="true" signature="43209:43254" ph="SELECT id FR... new_menu" />
+            <marker date="1578402668145" expanded="true" signature="43523:43683" ph="SELECT targe... new_menu" />
+            <marker date="1578402668145" expanded="true" signature="44252:44465" ph="..." />
+            <marker date="1578402668145" expanded="true" signature="44304:44465" ph="..." />
+            <marker date="1578402668145" expanded="true" signature="45249:45351" ph="SELECT * FRO... new_modules_cat" />
+            <marker date="1578402668145" expanded="true" signature="47302:47463" ph="..." />
+            <marker date="1578402668145" expanded="true" signature="48796:48922" ph="SELECT unic_... new_main_menu" />
+            <marker date="1578402668145" expanded="true" signature="49492:49653" ph="..." />
+            <marker date="1578402668145" expanded="true" signature="49823:49989" ph="..." />
+            <marker date="1578402668145" expanded="true" signature="50065:50137" ph="..." />
+            <marker date="1578402668145" expanded="true" signature="50291:50364" ph="..." />
+            <marker date="1578402668145" expanded="true" signature="50634:50876" ph="SELECT file_... new_main_menu" />
+            <marker date="1578402668145" expanded="true" signature="51176:51241" ph="SELECT count... new_main_menu" />
+            <marker date="1578402668145" expanded="true" signature="52103:52297" ph="SELECT count... new_madules_comment" />
+            <marker date="1578402668145" expanded="true" signature="52410:52605" ph="SELECT count... new_madules_comment" />
+            <marker date="1578402668145" expanded="true" signature="52718:52915" ph="SELECT count... new_madules_comment" />
+            <marker date="1578402668145" expanded="true" signature="53027:53222" ph="SELECT count... new_madules_comment" />
+            <marker date="1578402668145" expanded="true" signature="53335:53532" ph="SELECT count... new_madules_comment" />
+            <marker date="1578402668145" expanded="true" signature="53648:53746" ph="select count... new_manager_pm" />
+            <marker date="1578402668145" expanded="true" signature="53876:53967" ph="select count... new_contactus_pm" />
+            <marker date="1578402668145" expanded="true" signature="54356:54436" ph="SELECT file_... new_main_menu" />
+            <marker date="1578402668145" expanded="true" signature="56698:56733" ph="SELECT name,... new_language" />
+            <marker date="1578402668145" expanded="true" signature="57456:57502" ph="SELECT id,na... new_subsite" />
+            <marker date="1578402668145" expanded="true" signature="58042:58091" ph="SELECT title... new_subsite" />
+            <marker date="1578402668145" expanded="true" signature="58629:58675" ph="SELECT id,na... new_subsite" />
+            <marker date="1578402668145" expanded="true" signature="59101:59144" ph="SELECT name new_subsite" />
+            <marker date="1578402668145" expanded="true" signature="59727:59770" ph="SELECT name new_subsite" />
+            <marker date="1578402668145" expanded="true" signature="60296:60346" ph="SELECT title... new_language" />
+            <marker date="1578402668145" expanded="true" signature="60929:60979" ph="SELECT title... new_language" />
+            <marker date="1578402668145" expanded="true" signature="61506:61548" ph="SELECT id,us... new_managers" />
+            <marker date="1578402668145" expanded="true" signature="62134:62176" ph="SELECT id,us... new_managers" />
+            <marker date="1578402668145" expanded="true" signature="62707:62743" ph="SELECT id,us... new_members" />
+            <marker date="1578402668145" expanded="true" signature="63294:63338" ph="SELECT user_... new_managers" />
+            <marker date="1578402668145" expanded="true" signature="63851:64041" ph="SELECT icon,... new_main_menu" />
+            <marker date="1578402668145" expanded="true" signature="64070:64272" ph="SELECT icon,... new_main_menu" />
+            <marker date="1578402668145" expanded="true" signature="65058:65284" ph="SELECT id,na... new_modules_cat" />
+            <marker date="1578402668145" expanded="true" signature="65930:66158" ph="SELECT id,na... new_modules_cat" />
+            <marker date="1578402668145" expanded="true" signature="68908:69048" ph="SELECT id,na... new_modules_cat" />
+            <marker date="1578402668145" expanded="true" signature="69532:69667" ph="SELECT id,na... new_modules_cat" />
+            <marker date="1578402668145" expanded="true" signature="70102:70309" ph="SELECT id,na... new_modules_cat" />
+            <marker date="1578402668145" expanded="true" signature="70994:71175" ph="SELECT * FRO... new_modules_cat" />
+            <marker date="1578402668145" expanded="true" signature="72066:72249" ph="SELECT count... " />
+            <marker date="1578402668145" expanded="true" signature="72470:72522" ph="select count... " />
+            <marker date="1578402668145" expanded="true" signature="72992:73051" ph="select user_... new_managers" />
+            <marker date="1578402668145" expanded="true" signature="73545:73589" ph="select id fr... new_managers" />
+            <marker date="1578402668145" expanded="true" signature="73970:74013" ph="select id fr... new_groups" />
+            <marker date="1578402668145" expanded="true" signature="74457:74561" ph="SELECT id fr... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="74725:74907" ph="update new_tem_setting... " />
+            <marker date="1578402668145" expanded="true" signature="75062:75230" ph="insert into new_tem_setting... " />
+            <marker date="1578402668145" expanded="true" signature="75483:75586" ph="SELECT id fr... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="75765:75942" ph="update new_tem_setting... " />
+            <marker date="1578402668145" expanded="true" signature="76097:76260" ph="insert into new_tem_setting... " />
+            <marker date="1578402668145" expanded="true" signature="76486:76668" ph="update new_tem_setting... " />
+            <marker date="1578402668145" expanded="true" signature="76914:77082" ph="insert into new_tem_setting... " />
+            <marker date="1578402668145" expanded="true" signature="77351:77535" ph="insert into new_menu_tabs_shop... " />
+            <marker date="1578402668145" expanded="true" signature="77748:77915" ph="update new_menu_tabs_shop... " />
+            <marker date="1578402668145" expanded="true" signature="78086:78184" ph="select * fro... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="78626:78810" ph="insert into new_menu_tabs_shop... " />
+            <marker date="1578402668145" expanded="true" signature="79022:79189" ph="update new_menu_tabs_shop... " />
+            <marker date="1578402668145" expanded="true" signature="79369:79458" ph="SELECT id fr... new_ads_setting" />
+            <marker date="1578402668145" expanded="true" signature="79619:79753" ph="update new_ads_setting... " />
+            <marker date="1578402668145" expanded="true" signature="79820:79963" ph="insert into new_ads_setting... " />
+            <marker date="1578402668145" expanded="true" signature="80095:80182" ph="SELECT id fr... new_modual_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="80279:80377" ph="update new_modual_tem_setting... " />
+            <marker date="1578402668145" expanded="true" signature="80444:80536" ph="insert into new_modual_tem_setting... " />
+            <marker date="1578402668145" expanded="true" signature="80707:80875" ph="insert into new_tem_setting... " />
+            <marker date="1578402668145" expanded="true" signature="81284:81387" ph="select * fro... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="81723:81822" ph="select value... new_ads_setting" />
+            <marker date="1578402668145" expanded="true" signature="82008:82097" ph="select value... new_modual_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="82310:82440" ph="SELECT * FRO... new_menu" />
+            <marker date="1578402668145" expanded="true" signature="82715:82792" ph="..." />
+            <marker date="1578402668145" expanded="true" signature="83052:83182" ph="SELECT * FRO... new_menu" />
+            <marker date="1578402668145" expanded="true" signature="83457:83534" ph="..." />
+            <marker date="1578402668145" expanded="true" signature="83747:83787" ph="SELECT title... new_language" />
+            <marker date="1578402668145" expanded="true" signature="83959:84004" ph="SELECT id FR... new_language" />
+            <marker date="1578402668145" expanded="true" signature="84190:84235" ph="SELECT align... new_language" />
+            <marker date="1578402668145" expanded="true" signature="84454:84502" ph="SELECT align... new_language" />
+            <marker date="1578402668145" expanded="true" signature="84712:84755" ph="SELECT id FR... new_subsite" />
+            <marker date="1578402668145" expanded="true" signature="84924:84956" ph="select * fro... new_sms_webservice" />
+            <marker date="1578402668145" expanded="true" signature="86195:86217" ph="insert into ${$tbl_name}... " />
+            <marker date="1578402668145" expanded="true" signature="86740:86874" ph="select id,pi... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="87338:87358" ph="update ${$tbl_name}... " />
+            <marker date="1578402668145" expanded="true" signature="91373:91465" ph="select sum(c... new_module_view" />
+            <marker date="1578402668145" expanded="true" signature="91664:91737" ph="select count... new_module_view" />
+            <marker date="1578402668145" expanded="true" signature="92311:92340" ph="delete from ${$tbl_name}" />
+            <marker date="1578402668145" expanded="true" signature="92951:93099" ph="select block... new_block_location" />
+            <marker date="1578402668145" expanded="true" signature="93865:93913" ph="select title... new_blocks" />
+            <marker date="1578402668145" expanded="true" signature="94632:94782" ph="select block... new_block_location" />
+            <marker date="1578402668145" expanded="true" signature="95286:95323" ph="select text new_blocks" />
+            <marker date="1578402668145" expanded="true" signature="97069:97201" ph="select publi... ${$tbl_name}" />
+            <marker date="1578402668145" expanded="true" signature="99925:99999" ph="select adres... new_file_path" />
+            <marker date="1578402668145" expanded="true" signature="100097:100176" ph="select adres... new_file_path" />
+            <marker date="1578402668145" expanded="true" signature="100277:100360" ph="select adres... new_file_path" />
+            <marker date="1578402668145" expanded="true" signature="100712:100787" ph="select manag... new_manage_lang" />
+            <marker date="1578402668145" expanded="true" signature="100941:101042" ph="select manag... new_manage_lang" />
+            <marker date="1578402668145" expanded="true" signature="101316:101377" ph="select tem_n... new_active_template" />
+            <marker date="1578402668145" expanded="true" signature="101988:102050" ph="update new_keyword... " />
+            <marker date="1578402668145" expanded="true" signature="102509:102665" ph="select sum(v... " />
+            <marker date="1578402668145" expanded="true" signature="104154:104226" ph="select count... new_madules_comment" />
+            <marker date="1578402668145" expanded="true" signature="105643:105716" ph="SELECT label... new_mudoal_label" />
+            <marker date="1578402668145" expanded="true" signature="106032:106138" ph="SELECT name new_keyword" />
+            <marker date="1578402668145" expanded="true" signature="106448:106558" ph="SELECT name new_keyword" />
+            <marker date="1578402668145" expanded="true" signature="106904:107066" ph="SELECT a.nam... new_modules_cat" />
+            <marker date="1578402668145" expanded="true" signature="107520:107641" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="107729:107856" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="107936:108055" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="108202:108323" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="108417:108538" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="108728:108855" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="108947:109062" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="109180:109308" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="109400:109515" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="109607:109722" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="109818:109935" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="110021:110133" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="110227:110343" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="110433:110547" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="110643:110760" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="110870:110994" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="111086:111201" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="111293:111408" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="111492:111603" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="111687:111798" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="111882:111993" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="112081:112194" ph="select text new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="115147:115220" ph="select meta_... ${$table}" />
+            <marker date="1578402668145" expanded="true" signature="115432:115509" ph="select meta_... ${$table}" />
+            <marker date="1578402668145" expanded="true" signature="116015:116137" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="116225:116353" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="116433:116553" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="116700:116822" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="116916:117038" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="117236:117368" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="117484:117612" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="117704:117820" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="117938:118067" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="118159:118275" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="118367:118483" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="118579:118697" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="118783:118896" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="118990:119107" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="119197:119312" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="119408:119526" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="119636:119761" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="119853:119969" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="120061:120177" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="120261:120373" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="120457:120569" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="120653:120765" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="120853:120967" ph="select title... new_tem_setting" />
+            <marker date="1578402668145" expanded="true" signature="123619:123688" ph="select meta_... ${$table}" />
+            <marker date="1578402668145" expanded="true" signature="123870:123941" ph="select meta_... ${$table}" />
+            <marker date="1578402668145" expanded="true" signature="124402:124532" ph="SELECT * FRO... new_menu" />
+            <marker date="1578402668145" expanded="true" signature="125597:125664" ph="SELECT count... new_module_view" />
+            <marker date="1578402668145" expanded="true" signature="125766:125850" ph="update new_module_view... " />
+            <marker date="1578402668145" expanded="true" signature="125943:126015" ph="insert into new_module_view... " />
+            <marker date="1578402668145" expanded="true" signature="126970:127018" ph="SELECT name,... new_groups" />
+            <marker date="1578402668145" expanded="true" signature="127525:127618" ph="SELECT id fr... new_static_page_setting" />
+            <marker date="1578402668145" expanded="true" signature="128124:128344" ph="insert into new_static_page_setting... " />
+            <marker date="1578402668145" expanded="true" signature="128550:128671" ph="select * fro... new_static_page_setting" />
+            <marker date="1578402668145" expanded="true" signature="129033:129149" ph="select * fro... new_static_page_setting" />
+            <marker date="1578402668145" expanded="true" signature="134542:134606" ph="select seo_t... ${$table}" />
+            <marker date="1578402668145" expanded="true" signature="134788:134853" ph="select seo_t... ${$table}" />
+            <marker date="1578402668145" expanded="true" signature="135232:135303" ph="select * fro... new_company_catalog" />
+            <marker date="1578402668145" expanded="true" signature="135971:136102" ph="SELECT id fr... new_company_catalog" />
+            <marker date="1578402668145" expanded="true" signature="136374:136611" ph="update new_company_catalog... " />
+            <marker date="1578402668145" expanded="true" signature="136768:136984" ph="insert into new_company_catalog... " />
+            <marker date="1578402668145" expanded="true" signature="137219:137302" ph="select * fro... new_setting_pic_resize" />
+            <marker date="1578402668145" expanded="true" signature="137942:138068" ph="SELECT id fr... new_setting_pic_resize" />
+            <marker date="1578402668145" expanded="true" signature="138336:138555" ph="update new_setting_pic_resize... " />
+            <marker date="1578402668145" expanded="true" signature="138712:138911" ph="insert into new_setting_pic_resize... " />
+            <marker date="1578402668145" expanded="true" signature="139179:139287" ph="SELECT * FRO... new_company_cat_brand" />
+            <marker date="1578402668145" expanded="true" signature="140435:140596" ph="..." />
+            <marker date="1578402668145" expanded="true" signature="140829:140876" ph="select count... new_faq" />
+            <marker date="1578402668145" expanded="true" signature="141258:141318" ph="select count... new_modules_catogory" />
+            <marker date="1578402668145" expanded="true" signature="141915:142022" ph="SELECT * FRO... new_company_cat_type" />
+            <marker date="1578402668145" expanded="true" signature="143170:143331" ph="..." />
+            <marker date="1578402668145" expanded="true" signature="143564:143611" ph="select count... new_faq" />
+            <marker date="1578402668145" expanded="true" signature="143993:144053" ph="select count... new_modules_catogory" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_dynamics/default/new_user_login_sms.php4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500448426000" expanded="true" signature="440:532" ph="SELECT sms_v... new_members" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_dynamics/default/profile/information_Page.php4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="106" lean-forward="false" selection-start-line="20" selection-start-column="106" selection-end-line="20" selection-end-column="106" />
+          <folding>
+            <marker date="1578413992176" expanded="true" signature="10:100" ph="SELECT email... new_members" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_dynamics/default/new_user_profile.php4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3990">
+          <caret line="399" column="0" lean-forward="false" selection-start-line="399" selection-start-column="0" selection-end-line="399" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_dynamics/default/profile/profile.php4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="35" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_dynamics/default/profile/social_networks.php4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475388012000" expanded="true" signature="10:113" ph="SELECT insta... new_members" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_dynamics/default/new_register.php4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="264" column="105" lean-forward="false" selection-start-line="264" selection-start-column="52" selection-end-line="264" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_manager_sms_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480754214000" expanded="true" signature="1655:1740" ph="SELECT sms_v... new_managers" />
+            <marker date="1480754214000" expanded="true" signature="1923:2010" ph="update new_managers... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_dynamics/default/new_user_sms_validation.php4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <marker date="1578412437860" expanded="true" signature="1110:1198" ph="SELECT sms_v... new_members" />
+            <marker date="1578412437860" expanded="true" signature="1361:1444" ph="update new_members... " />
+            <marker date="1578412437860" expanded="true" signature="1893:1998" ph="SELECT value... new_user_setting" />
+            <marker date="1578412437860" expanded="true" signature="2018:2157" ph="..." />
+            <marker date="1578412437860" expanded="true" signature="2163:2426" ph="..." />
+            <marker date="1578412437860" expanded="true" signature="2177:2254" ph="update new_members... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

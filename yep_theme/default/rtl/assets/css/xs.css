@@ -1,0 +1,13 @@
+.rtl .navbar-brand{
+  width: 100%;
+  text-align: center;
+}
+.secfhead{
+    display: block!important;
+}
+  .toolmenu{
+    float: right!important;
+}
+.dropdown.pull-left.yepco{
+  top: 10px!important;
+}

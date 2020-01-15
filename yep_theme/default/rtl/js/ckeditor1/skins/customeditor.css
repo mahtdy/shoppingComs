@@ -1,0 +1,49 @@
+.cke_dialog_body * 
+{
+	font-family: MyFont !important;
+}
+
+.cke_button_label, .cke_combo_text
+{
+	font-family: MyFont !important;
+	letter-spacing: normal !important;
+}
+.cke_dialog_body label
+{
+	color: #777 !important;
+	line-height: 1.6 !important;
+}
+.cke_dialog_body input[type=text]
+{
+	direction: ltr !important;
+	text-align: center;
+}
+.cke_dialog_contents_body
+{
+	padding: 10px 20px 20px 20px !important;
+}
+
+.cke_dialog_footer
+{
+	padding: 10px !important;
+}
+.cke_dialog_ui_button
+{
+	text-align: center !important;
+}
+.cke_ltr input
+{
+	text-align: left !important;
+	direction: ltr !important;
+}
+.cke_combo_text, .cke_combopanel
+{
+	width: auto !important;
+	max-width: 150px !important;
+}
+.cke_panel_grouptitle
+{
+	border: none !important;
+}
+
+

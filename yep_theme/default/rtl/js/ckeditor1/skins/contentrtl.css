@@ -1,0 +1,22 @@
+
+body
+{
+	font-size: 12px;
+	font-family: tahoma;
+	direction: rtl;
+	line-height: 1.5;
+	text-align: right;
+	padding: 10px;
+}
+hr
+{
+	height: 1px;
+	color: #CCC;
+	border-width: 0px;
+	border-top: solid 1px #CCC;
+}
+blockquote
+{
+	display: block;
+	margin: 10px 40px 10px 40px;
+}

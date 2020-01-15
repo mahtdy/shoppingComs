@@ -1,0 +1,1028 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <title>News Item</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="" type="image/x-icon"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="" type="image/x-icon">
+    <link rel="icon" href="" type="image/x-icon">
+    <meta name="alexaVerifyID" content=""/>
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <link rel="canonical" href=""/>
+    <!--og-->
+    <meta property="og:image" content=""/>
+    <meta property="og:title" content=""/>
+    <meta property="og:description" content=""/>
+    <meta property="og:type" content=""/>
+    <meta property="og:url" content=""/>
+    <!--twitter-->
+    <meta name="twitter:card" content=""/>
+    <meta name="twitter:url" content=""/>
+    <meta name="twitter:title" content=""/>
+    <meta name="twitter:description" content=""/>
+    <meta name="twitter:image" content=""/>
+    <meta name="twitter:creator" content=""/>
+    <!---stylesheets start-->
+    <link rel="stylesheet" type="text/css" href="css/theme.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+
+    <!---stylesheets end-->
+
+</head>
+<body style="overflow-x:hidden;">
+<div class="container-fluid">
+    <div class="row">
+
+        <a href="#top" onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
+            <div class="gtop">
+                <span class="fa fa-angle-up animated infinite fadeInUp"></span>
+            </div>
+        </a>
+
+
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title"><span class="fa fa-user"></span>ورود به حساب کاربری</h4>
+                    </div>
+                    <div class="modal-body">
+
+
+                        <div class="form-group">
+                            <input class="form-control" placeholder="نام کاربری"></input>
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control" placeholder="کلمه عبور"></input>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6">
+                                    <div class="security-code">6587</div>
+                                </div>
+                                <div class="col-md-6 col-sm-6">
+                                    <input class="form-control" placeholder="کد امنیتی"></input>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6">
+                                    <button class="btn btn-primary">ثبت نام</button>
+
+                                </div>
+                                <div class="col-md-6 col-sm-6">
+                                    <button class="btn btn-success">ورود</button>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="modal-footer">
+                        <a href="#"><p><span class="fa fa-repeat"></span> بازنشانی رمز عبور!</p></a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!-- Comment Reply Modal -->
+        <div class="modal fade" id="replyModal" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title"><span class="fa fa-comments-o" style="margin-left: 5px;"></span>ارسال پاسخ به دیدگاه:</h4>
+                    </div>
+                    <div class="modal-body" style="display: inline-block;">
+
+
+                        <div class="col-md-7 pull-right form-group">
+                            <input style="text-align: right" class="form-control" placeholder="نام و نام خانوادگی">
+                        </div>
+
+
+                        <div class="col-md-7 pull-right form-group">
+                            <input style="text-align: right" class="form-control" placeholder="ایمیل">
+                        </div>
+
+
+                        <div class="col-md-12 pull-right form-group">
+                            <textarea style="text-align: right" class="form-control" rows="5" placeholder="متن دیدگاه"></textarea>
+                        </div>
+
+
+                        <div class="col-md-12 pull-right form-group">
+                            <button type="button" class="btn btn-success">ارسال</button>
+                        </div>
+
+
+
+
+                    </div>
+                    <div class="modal-footer">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+
+        <!-- Start breadcrumb -->
+        <section class="breadcrumb-sec animated fadeIn">
+            <div class="container">
+                <ol class="breadcrumb rtl">
+                    <li><a href="#"><span class="fa fa-home"></span></a></li>
+                    <li class="active">اخبار</li>
+                </ol>
+            </div>
+        </section>
+
+
+        <!-- End Page Title -->
+
+        <div class="container">
+            <main>
+                <!-- Start Main -->
+                <div class="row">
+
+
+                    <!-- Start Article -->
+                    <article class="col-md-7 col-sm-8 pull-right animated fadeIn">
+                        <section class="content">
+                            <div class="row">
+                                <section class="col-md-12 newsitempage">
+                                    <div class="row">
+                                        <div class="col-sm-12 pull-left rtl">
+                                            <h1>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده
+                                                از طراحان گرافیک است</h1>
+                                            <p class="cat_date">
+                                                <span class="fa fa-folder-open"></span>
+                                                <span>فرهنگی</span>
+                                                <span class="fa fa-clock-o"></span>
+                                                <span>22-05-94</span>
+                                                <span class="fa fa-edit"></span>
+                                                <span>مهدی آذربایجانی</span>
+
+                                            </p>
+                                        </div>
+                                        <div class="col-xs-12 tools row rtl">
+
+                                            <div class="col-sm-6 col-xs-12 pull-right rtl pr0">
+
+                                                <div class="ccomment pull-right">
+                                                    <a class="scroll" href="#comments" data-toggle="tooltip"
+                                                       title="تعداد دیدگاه ها"><span class="fa fa-commenting-o"></span></a>
+                                                    <span>165</span>
+                                                </div>
+                                                <div class="clike pull-right">
+                                                    <a href="#" data-toggle="tooltip"
+                                                       title="افزودن به علاقه مندی ها"><span
+                                                            class="fa fa-heart-o"></span></a>
+                                                    <span>24</span>
+                                                </div>
+
+
+                                            </div>
+
+                                            <div class="col-sm-6 col-xs-12 pull-right ltr social">
+                                                <a href="#" data-toggle="tooltip" title="ارسال به ایمیل"><span
+                                                        class="fa fa-share-alt"></span></a>
+                                                <a href="#"><span class="fa fa-linkedin"></span></a>
+                                                <a href="#"><span class="fa fa-twitter"></span></a>
+                                                <a href="#"><span class="fa fa-google-plus"></span></a>
+                                                <a href="#"><span class="fa fa-facebook"></span></a>
+                                                <a href="#"><span class="fa fa-paper-plane"></span></a>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-sm-12 pull-right">
+                                            <img class="hvr-grow" src="img/post2.jpg" alt=""/>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-xs-12 matnkhabar">
+                                            <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از
+                                                طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و
+                                                سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای
+                                                متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه
+                                                درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با
+                                                نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان
+                                                خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید
+                                                داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان
+                                                رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات
+                                                پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>
+                                            <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از
+                                                طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و
+                                                سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای
+                                                متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه
+                                                درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با
+                                                نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان
+                                                خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. </p>
+                                            <blockquote class="blockquote-reverse">
+                                                <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+                                                    استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در
+                                                    ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و
+                                                    کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
+                                            </blockquote>
+                                            <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از
+                                                طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و
+                                                سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای
+                                                متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه
+                                                درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با
+                                                نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان
+                                                خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید
+                                                داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان
+                                                رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات
+                                                پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>
+                                            <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از
+                                                طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و
+                                                سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای
+                                                متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه
+                                                درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با
+                                                نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان
+                                                خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید
+                                                داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان
+                                                رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات
+                                                پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>
+                                        </div>
+                                        <div class="col-xs-12 newsgalleryitem">
+                                            <!-- portfolio section -->
+                                            <div id="portfolio">
+                                                <div class="col-md-12 col-sm-12">
+                                                    <!-- ISO section -->
+                                                    <div class="iso-section">
+                                                        <div class="iso-box-section" data-wow-delay="0.9s">
+                                                            <div class="iso-box-wrapper col4-iso-box">
+
+                                                                <div class="iso-box html wordpress mobile col-lg-4 col-md-4 col-sm-6">
+                                                                    <a href="img/post3.jpg"
+                                                                       class="swipebox hvr-glow"><img
+                                                                            src="img/post3.jpg" alt="portfolio img"></a>
+                                                                </div>
+
+                                                                <div class="iso-box html wordpress mobile col-lg-4 col-md-4 col-sm-6">
+                                                                    <a href="img/post4.jpg"
+                                                                       class="swipebox hvr-glow"><img
+                                                                            src="img/post4.jpg" alt="portfolio img"></a>
+                                                                </div>
+
+                                                                <div class="iso-box html wordpress mobile col-lg-4 col-md-4 col-sm-6">
+                                                                    <a href="img/post1.jpg"
+                                                                       class="swipebox hvr-glow"><img
+                                                                            src="img/post1.jpg" alt="portfolio img"></a>
+                                                                </div>
+
+                                                                <div class="iso-box html wordpress mobile col-lg-4 col-md-4 col-sm-6">
+                                                                    <a href="img/post2.jpg"
+                                                                       class="swipebox hvr-glow"><img
+                                                                            src="img/post2.jpg" alt="portfolio img"></a>
+                                                                </div>
+
+                                                                <div class="iso-box html wordpress mobile col-lg-4 col-md-4 col-sm-6">
+                                                                    <a href="img/post1.jpg"
+                                                                       class="swipebox hvr-glow"><img
+                                                                            src="img/post1.jpg" alt="portfolio img"></a>
+                                                                </div>
+
+                                                                <div class="iso-box html wordpress mobile col-lg-4 col-md-4 col-sm-6">
+                                                                    <a href="img/post4.jpg"
+                                                                       class="swipebox hvr-glow"><img
+                                                                            src="img/post4.jpg" alt="portfolio img"></a>
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-12 newsvideoitem">
+                                            <video id="example_video_1" class="video-js vjs-default-skin" controls
+                                                   preload="none" width="100%" height="100%"
+                                                   poster="http://video-js.zencoder.com/oceans-clip.png"
+                                                   data-setup="{}">
+                                                <source src="http://video-js.zencoder.com/oceans-clip.mp4"
+                                                        type='video/mp4'/>
+                                                <source src="http://video-js.zencoder.com/oceans-clip.webm"
+                                                        type='video/webm'/>
+                                                <source src="http://video-js.zencoder.com/oceans-clip.ogv"
+                                                        type='video/ogg'/>
+                                                <track kind="captions" src="demo.captions.vtt" srclang="en"
+                                                       label="English"></track>
+                                                <!-- Tracks need an ending tag thanks to IE9 -->
+                                                <track kind="subtitles" src="demo.captions.vtt" srclang="en"
+                                                       label="English"></track>
+                                                <!-- Tracks need an ending tag thanks to IE9 -->
+                                                <p class="vjs-no-js">To view this video please enable JavaScript, and
+                                                    consider upgrading to a web browser that <a
+                                                            href="http://videojs.com/html5-video-support/"
+                                                            target="_blank">supports HTML5 video</a></p>
+                                            </video>
+                                            <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از
+                                                طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و
+                                                سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای
+                                                متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه
+                                                درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با
+                                                نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان
+                                                خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید
+                                                داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان
+                                                رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات
+                                                پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>
+                                        </div>
+                                        <div class="col-xs-12 newsinfoitem">
+                                            <fieldset>
+                                                <legend>اطلاعات دانلود:</legend>
+                                                <a href="#report-modal" data-toggle="modal">
+                                                    <span class="report-old-version">گزارش انتشار نسخه جدید</span>
+                                                </a>
+
+                                                <ul>
+                                                    <li>
+                                                        <strong>شرکت سازنده:</strong>
+                                                        <a target="_blank" rel="nofollow"
+                                                           href="http://referless.com/?http://www.functionbay.org/">FunctionBay
+                                                            GmbH</a>
+
+                                                    </li>
+                                                    <li>
+                                                        <strong>حجم فایل:</strong>
+		<span itemscope="" itemtype="http://schema.org/SoftwareApplication">
+		<span itemprop="fileSize">3049.99 + 1302 مگابایت</span>
+		</span><br>
+
+
+                                                    </li>
+                                                    <li>
+                                                        <strong>تاریخ انتشار:</strong>
+                                                        11:30 - 95/3/16
+                                                    </li>
+                                                    <li>
+
+                                                        <strong>منبع:</strong> <a href="http://coms.ir" title="دانلود"
+                                                                                  target="_blank">آبادیس</a>
+
+                                                    </li>
+                                                </ul>
+                                            </fieldset>
+
+                                        </div>
+                                        <div class="col-xs-12 newsguideitem">
+                                            <fieldset>
+                                                <legend>راهنمای نصب :</legend>
+                                                <p dir="rtl">- با استفاده از راهنمایی های درون فایل Read Me.txt اقدام به
+                                                    نصب نرم افزار کنید. <br>- فایل آپدیت آفلاین را دانلود نموده و مطابق
+                                                    با راهنمای نصب درون فایل Read Me.txt نرم افزار را به صورت آفلاین
+                                                    آپدیت کنید.</p>
+                                            </fieldset>
+
+                                        </div>
+                                        <div class="col-xs-12 newsatacheitem">
+                                            <a role="button" data-toggle="collapse" href="#collapseExample"
+                                               aria-expanded="false" aria-controls="collapseExample">
+                                                <span class="instruction-expander">راهنمای دانلود</span>
+                                            </a>
+                                            <a href="#problem-modal" data-toggle="modal">
+                                                <span class="report-link">گزارش خرابی</span>
+                                            </a>
+                                            <fieldset>
+                                                <legend>لینک های دانلود:</legend>
+                                                <ul>
+                                                    <li>
+                                                        <span>دانلود قسمت اول</span>
+                                                        <span class="filesize">(120MB)</span>
+                                                        <a href="#"><span class="fa fa-cloud-download"></span></a>
+                                                    </li>
+                                                    <li>
+                                                        <span>دانلود قسمت دوم</span>
+                                                        <span class="filesize">(120MB)</span>
+                                                        <a href="#"><span class="fa fa-cloud-download"></span></a>
+                                                    </li>
+                                                </ul>
+                                            </fieldset>
+                                            <div class="collapse" id="collapseExample">
+                                                <div class="well">
+                                                    <ul>
+
+                                                        <li>اگر نرم افزار مدیریت دانلود ندارید، قبل از دانلود هرگونه
+                                                            فایلی، یک نرم افزار مدیریت دانلود مانند <a
+                                                                    href="http://p30download.com/fa/entry/44201/"
+                                                                    target="_blank"><b>IDM</b></a> و یا <a
+                                                                    href="http://p30download.com/fa/entry/566/"
+                                                                    target="_blank"><b>FlashGet</b></a> نصب کنید.
+                                                        </li>
+                                                        <li>برای دانلود، به روی عبارت "دانلود" کلیک کنید و منتظر بمانید
+                                                            تا پنجره مربوطه ظاهر شود سپس محل ذخیره شدن فایل را انتخاب
+                                                            کنید و منتظر بمانید تا دانلود تمام شود.
+                                                        </li>
+                                                        <li><span style="color: #ff0000;">در صورت بروز مشکل در دانلود فایل ها تنها کافی است در آخر لینک دانلود فایل یک علامت سوال ? قرار دهید تا فایل به راحتی دانلود شود.</span>
+                                                        </li>
+                                                        <li>فایل های قرار داده شده برای دانلود به منظور کاهش حجم و
+                                                            دریافت سریعتر فشرده شده اند، برای خارج سازی فایل ها از حالت
+                                                            فشرده از نرم افزار <a
+                                                                    href="http://p30download.com/fa/entry/268/"
+                                                                    target="_blank"><b>Winrar</b></a> و یا مشابه آن
+                                                            استفاده کنید.
+                                                        </li>
+
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-12 newspassworditem">
+
+                                            <h3>
+                                                رمز فایل : www.abadis.ir
+                                            </h3>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-xs-12 tags">
+
+                                            <fieldset>
+                                                <legend>برچسب ها:</legend>
+                                                <ul>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                    <li><a href="#">برچسب</a></li>
+                                                </ul>
+                                            </fieldset>
+
+                                        </div>
+                                        <div class="col-xs-12 relatedlinks">
+
+                                            <fieldset>
+                                                <legend>لینک های مرتبط :</legend>
+                                                <ul class="newsrelated">
+                                                    <li class="col-md-4 col-xs-12">
+                                                        <a href="#" style="text-decoration: none">
+                                                            <img class="hvr-grow" src="img/post1.jpg">
+                                                            <span>عنوان خبر مرتبط عنوان خبر مرتبط</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="col-md-4 col-xs-12">
+                                                        <a href="#" style="text-decoration: none">
+                                                            <img class="hvr-grow" src="img/post1.jpg">
+                                                            <span>عنوان خبر مرتبط عنوان خبر مرتبط</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="col-md-4 col-xs-12">
+                                                        <a href="#" style="text-decoration: none">
+                                                            <img class="hvr-grow" src="img/post1.jpg">
+                                                            <span>عنوان خبر مرتبط عنوان خبر مرتبط</span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </fieldset>
+
+                                        </div>
+                                        <div class="col-xs-12 ghavanin">
+
+                                            <fieldset>
+                                                <legend>قوانین ارسال دیدگاه:</legend>
+                                                <ul>
+                                                    <li><span class="fa fa-check-square"></span>دیدگاه های ارسال شده
+                                                        توسط شما، پس از تایید توسط خبرگزاری تسنیم در وب منتشر خواهد شد.
+                                                    </li>
+                                                    <li><span class="fa fa-check-square"></span>پیام هایی که حاوی تهمت
+                                                        یا افترا باشد منتشر نخواهد شد.
+                                                    </li>
+                                                    <li><span class="fa fa-check-square"></span>پیام هایی که به غیر از
+                                                        زبان پارسی یا غیر مرتبط باشد منتشر نخواهد شد.
+                                                    </li>
+                                                </ul>
+                                            </fieldset>
+
+                                        </div>
+                                        <div class="col-xs-12 cform" id="comments">
+
+                                            <fieldset>
+                                                <legend>ارسال دیدگاه:</legend>
+
+
+                                                <div class="col-md-7 col-xs-12 pull-right">
+                                                    <input class="form-control" placeholder="نام و نام خانوادگی">
+                                                </div>
+
+
+                                                <div class="col-md-7 col-xs-12 pull-right">
+                                                    <input class="form-control" placeholder="ایمیل">
+                                                </div>
+
+
+                                                <div class="col-md-12 col-xs-12 pull-right">
+                                                    <textarea class="form-control" rows="5"
+                                                              placeholder="متن دیدگاه"></textarea>
+                                                </div>
+
+
+                                                <div class="col-md-12 col-xs-12 pull-right">
+                                                    <button type="button" class="btn btn-success">ارسال</button>
+                                                </div>
+
+
+                                            </fieldset>
+
+                                        </div>
+                                        <div class="col-xs-12 clist">
+
+                                            <fieldset>
+                                                <legend>دیدگاه ها:</legend>
+
+                                                <ul class="media-list">
+                                                    <li class="media">
+                                                        <div class="media-left">
+                                                            <a href="#">
+                                                                <img class="media-object" src="img/avatar1.jpg">
+                                                            </a>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <div class="tools">
+                                                                <div class="score pull-left">
+                                                                    <div class="up pull-right">
+                                                                        <a href="#"><span
+                                                                                class="fa fa-plus-square-o"></span></a><span>35</span>
+                                                                    </div>
+                                                                    <div class="down pull-left">
+                                                                        <a href="#"><span
+                                                                                class="fa fa-minus-square-o"></span></a><span>12</span>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <h4 class="media-heading">علی اکبری</h4>
+                                                            <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ
+                                                                و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه
+                                                                روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای
+                                                                شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف
+                                                                بهبود ابزارهای کاربردی می باشد. </p>
+                                                            <div class="tools">
+                                                                <div class="reply pull-left">
+                                                                    <a href="#" data-toggle="modal"
+                                                                       data-target="#replyModal"><span
+                                                                            class="fa fa-commenting-o"></span><span>ارسال پاسخ</span></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+
+                                                    <li class="media">
+                                                        <div class="media-left">
+                                                            <a href="#">
+                                                                <img class="media-object" src="img/avatar1.jpg">
+                                                            </a>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <div class="tools">
+                                                                <div class="score pull-left">
+                                                                    <div class="up pull-right">
+                                                                        <a href="#"><span
+                                                                                class="fa fa-plus-square-o"></span></a><span>35</span>
+                                                                    </div>
+                                                                    <div class="down pull-left">
+                                                                        <a href="#"><span
+                                                                                class="fa fa-minus-square-o"></span></a><span>12</span>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <h4 class="media-heading">داود محمدی</h4>
+                                                            <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ
+                                                                و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه
+                                                                روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای
+                                                                شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف
+                                                                بهبود ابزارهای کاربردی می باشد. </p>
+                                                            <!-- Nested media object -->
+                                                            <div class="media">
+                                                                <div class="media-left">
+                                                                    <a href="#">
+                                                                        <img class="media-object" src="img/avatar1.jpg">
+                                                                    </a>
+                                                                </div>
+                                                                <div class="media-body">
+                                                                    <div class="tools">
+                                                                        <div class="score pull-left">
+                                                                            <div class="up pull-right">
+                                                                                <a href="#"><span
+                                                                                        class="fa fa-plus-square-o"></span></a>
+                                                                                <span>35</span>
+                                                                            </div>
+                                                                            <div class="down pull-left">
+                                                                                <a href="#"><span
+                                                                                        class="fa fa-minus-square-o"></span></a><span>12</span>
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <h4 class="media-heading">حسین اصغری</h4>
+                                                                    لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از
+                                                                    صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها
+                                                                    و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که
+                                                                    لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و
+                                                                    کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می
+                                                                    باشد.
+                                                                    <!-- Nested media object -->
+                                                                    <div class="media">
+                                                                        <div class="media-left">
+                                                                            <a href="#">
+                                                                                <img class="media-object"
+                                                                                     src="img/avatar1.jpg">
+                                                                            </a>
+                                                                        </div>
+                                                                        <div class="media-body">
+                                                                            <div class="tools">
+                                                                                <div class="score pull-left">
+                                                                                    <div class="up pull-right">
+                                                                                        <a href="#"><span
+                                                                                                class="fa fa-plus-square-o"></span></a><span>35</span>
+                                                                                    </div>
+                                                                                    <div class="down pull-left">
+                                                                                        <a href="#"><span
+                                                                                                class="fa fa-minus-square-o"></span></a>
+                                                                                        <span>12</span>
+
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <h4 class="media-heading">داود محمدی</h4>
+                                                                            لورم ایپسوم متن ساختگی با تولید سادگی
+                                                                            نامفهوم از صنعت چاپ و با استفاده از طراحان
+                                                                            گرافیک است. چاپگرها و متون بلکه روزنامه و
+                                                                            مجله در ستون و سطرآنچنان که لازم است و برای
+                                                                            شرایط فعلی تکنولوژی مورد نیاز و کاربردهای
+                                                                            متنوع با هدف بهبود ابزارهای کاربردی می باشد.
+                                                                            <div class="tools">
+                                                                                <div class="reply pull-left">
+                                                                                    <a href="#" data-toggle="modal"
+                                                                                       data-target="#replyModal"></span>
+                                                                                        <span>ارسال پاسخ</span></a>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="tools">
+                                                                        <div class="reply pull-left">
+                                                                            <a href="#" data-toggle="modal"
+                                                                               data-target="#replyModal"><span
+                                                                                    class="fa fa-commenting-o"></span><span>ارسال پاسخ</span></a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Nested media object -->
+                                                            <div class="media">
+                                                                <div class="media-left">
+                                                                    <a href="#">
+                                                                        <img class="media-object" src="img/avatar1.jpg">
+                                                                    </a>
+                                                                </div>
+                                                                <div class="media-body">
+                                                                    <div class="tools">
+                                                                        <div class="score pull-left">
+                                                                            <div class="up pull-right">
+                                                                                <a href="#"><span
+                                                                                        class="fa fa-plus-square-o"></span></a><span>35</span>
+                                                                            </div>
+                                                                            <div class="down pull-left">
+                                                                                <a href="#"><span
+                                                                                        class="fa fa-minus-square-o"></span></a><span>12</span>
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <h4 class="media-heading">اسماعیل فاضل</h4>
+                                                                    لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از
+                                                                    صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها
+                                                                    و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که
+                                                                    لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و
+                                                                    کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می
+                                                                    باشد.
+                                                                    <div class="tools">
+                                                                        <div class="reply pull-left">
+                                                                            <a href="#" data-toggle="modal"
+                                                                               data-target="#replyModal"><span
+                                                                                    class="fa fa-commenting-o"></span><span>ارسال پاسخ</span></a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="tools">
+                                                                <div class="reply pull-left">
+                                                                    <a href="#" data-toggle="modal"
+                                                                       data-target="#replyModal"><span
+                                                                            class="fa fa-commenting-o"></span><span>ارسال پاسخ</span></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+
+
+                                            </fieldset>
+
+                                        </div>
+
+                                    </div>
+
+
+                                </section>
+                                <section class="col-md-3 sidebar">
+                                </section>
+                            </div>
+                        </section>
+                    </article>
+
+                    <!-- Start Right Sidebar -->
+                    <aside class="col-md-3 col-sm-4 col-xs-12 pull-right animated fadeIn">
+                        <section class="block-col">
+
+                            <div class="block hidden-xs">
+                                <div class="header">
+                                    <h3><span>لیست اخبار</span></h3>
+                                </div>
+                                <div class="content title-block">
+                                    <ul>
+                                        <li><a href="#">عنوان نمونه برای خبر یا مطلب</a></li>
+                                        <li><a href="#">عنوان نمونه برای خبر یا مطلب</a></li>
+                                        <li><a href="#">عنوان نمونه برای خبر یا مطلب</a></li>
+                                        <li><a href="#">عنوان نمونه برای خبر یا مطلب</a></li>
+                                        <li><a href="#">عنوان نمونه برای خبر یا مطلب</a></li>
+                                        <li><a href="#">عنوان نمونه برای خبر یا مطلب</a></li>
+                                        <li><a href="#">عنوان نمونه برای خبر یا مطلب</a></li>
+                                        <li><a href="#">عنوان نمونه برای خبر یا مطلب</a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="block hidden-xs">
+                                <div class="header">
+                                    <h3><span>لیست مطالب با تصویر</span></h3>
+                                </div>
+                                <div class="content post-block">
+                                    <ul>
+
+                                        <li class="row">
+                                            <div class="col-md-5 pull-right pl0">
+                                                <a href="#" class="hvr-grow"><img src="img/post1.jpg"></a>
+                                            </div>
+                                            <div class="col-md-7 pull-right pl0">
+                                                <a href="#"><h3>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت
+                                                    چاپ</h3></a>
+                                            </div>
+                                        </li>
+
+                                        <li class="row">
+                                            <div class="col-md-5 pull-right pl0">
+                                                <a href="#" class="hvr-grow"><img src="img/post2.jpg"></a>
+                                            </div>
+                                            <div class="col-md-7 pull-right pl0">
+                                                <a href="#"><h3>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت
+                                                    چاپ</h3></a>
+                                            </div>
+                                        </li>
+
+                                        <li class="row">
+                                            <div class="col-md-5 pull-right pl0">
+                                                <a href="#" class="hvr-grow"><img src="img/post3.jpg"></a>
+                                            </div>
+                                            <div class="col-md-7 pull-right pl0">
+                                                <a href="#"><h3>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت
+                                                    چاپ</h3></a>
+                                            </div>
+                                        </li>
+
+                                        <li class="row last">
+                                            <div class="col-md-5 pull-right pl0">
+                                                <a href="#" class="hvr-grow"><img src="img/post1.jpg"></a>
+                                            </div>
+                                            <div class="col-md-7 pull-right pl0">
+                                                <a href="#"><h3>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت
+                                                    چاپ</h3></a>
+                                            </div>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="block hidden-xs">
+                                <div class="header">
+                                    <h3><span>لیست ویدئوها</span></h3>
+                                </div>
+                                <div class="content video-block">
+                                    <ul>
+
+                                        <li>
+                                            <a href="#" class="hvr-grow">
+                                                <img src="img/post1.jpg">
+
+                                                <p>22:35</p>
+                                            </a>
+                                            <a href="#">
+                                                <h3>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</h3>
+                                            </a>
+                                        </li>
+
+                                        <li>
+                                            <a href="#" class="hvr-grow">
+                                                <img src="img/post2.jpg">
+
+                                                <p>22:35</p>
+                                            </a>
+                                            <a href="#">
+                                                <h3>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</h3>
+                                            </a>
+                                        </li>
+
+                                        <li class="last">
+                                            <a href="#" class="hvr-grow">
+                                                <img src="img/post3.jpg">
+
+                                                <p>22:35</p>
+                                            </a>
+                                            <a href="#">
+                                                <h3>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</h3>
+                                            </a>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </section>
+                    </aside>
+
+                    <!-- Start Left Sidebar -->
+                    <aside class="col-md-2 hidden-sm hidden-xs pull-left animated fadeIn">
+                        <section class="block-col">
+                            <div class="block">
+                                <div class="content ads-col">
+                                    <img src="img/ads2.gif">
+                                    <img src="img/ads1.gif">
+                                    <img src="img/ads3.gif">
+                                </div>
+                            </div>
+                        </section>
+                    </aside>
+
+
+                </div>
+                <!-- end main row -->
+            </main>
+            <!-- end main -->
+        </div>
+        <!-- End main container -->
+
+
+        <!--main row-->
+    </div>
+    <!--container-fluid-->
+</div>
+
+<div class="modal fade" id="report-modal" tabindex="-1" role="dialog" aria-labelledby="report-modalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close pull-left" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h3 class="modal-title" id="report-modalLabel">گزارش قدیمی بودن نسخه</h3>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="report-topic" class="control-label">عنوان :</label>
+                        <input type="text" class="form-control" id="report-topic">
+                    </div>
+                    <div class="form-group">
+                        <label for="report-old-link" class="control-label">لینک مطلب :</label>
+                        <input type="text" class="form-control" id="report-old-link">
+                    </div>
+                    <div class="form-group">
+                        <label for="new-version" class="control-label">نسخه جدید :</label>
+                        <input type="text" class="form-control" id="new-version">
+                    </div>
+                    <div class="form-group">
+                        <label for="report-text" class="control-label">توضیحات :</label>
+                        <textarea class="form-control" id="report-text"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="report-new-link" class="control-label">لینک دانلود نسخه جدید :</label>
+                        <input type="text" class="form-control" id="report-new-link">
+                    </div>
+                    <div class="form-group">
+                        <label for="report-email" class="control-label">ایمیل :</label>
+                        <input type="email" class="form-control" id="report-email">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success">ارسال</button>
+                <button type="button" class="btn btn-danger" data-dismiss="modal">انصراف</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="problem-modal" tabindex="-1" role="dialog" aria-labelledby="problem-modalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close pull-left" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h3 class="modal-title" id="problem-modalLabel">گزارش خرابی</h3>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="problem-topic" class="control-label">عنوان :</label>
+                        <input type="text" class="form-control" id="problem-topic">
+                    </div>
+                    <div class="form-group">
+                        <label for="problem-link" class="control-label">لینک مطلب :</label>
+                        <input type="text" class="form-control" id="problem-link">
+                    </div>
+                    <div class="form-group">
+                        <label for="problem-reason" class="control-label">دلیل گزارش :</label>
+                        <select name="mr-reason" id="problem-reason" class="form-control">
+                            <option value="از کار افتادن لینک"> از کار افتادن لینک</option>
+                            <option value="خرابی فایل"> خرابی فایل</option>
+                            <option value="خرابی فایل"> خرابی کرک</option>
+                            <option value="سایر"> سایر</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="problem-text" class="control-label">توضیحات :</label>
+                        <textarea class="form-control" id="problem-text"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="problem-email" class="control-label">ایمیل :</label>
+                        <input type="email" class="form-control" id="problem-email">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success">ارسال</button>
+                <button type="button" class="btn btn-danger" data-dismiss="modal">انصراف</button>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+<!-- data-main attribute tells require.js to load
+            scripts/main.js after require.js loads. -->
+<script src="scripts/jquery.min.js"></script>
+<script src="scripts/bootstrap.min.js"></script>
+<script src="scripts/video.js"></script>
+<script src="scripts/wow.min.js"></script>
+<script src="scripts/jquery.swipebox.min.js" type="text/javascript"></script>
+
+<!-- data-main attribute tells require.js to load
+            scripts/main.js after require.js loads. -->
+<script src="scripts/require.js"></script>
+<script>
+    $(document).ready(function() {
+        $( '.swipebox' ).swipebox({
+            useCSS : true, // false will force the use of jQuery for animations
+            initialIndexOnArray: 0, // which image index to init when a array is passed
+            hideCloseButtonOnMobile : false, // true will hide the close button on mobile devices
+            hideBarsDelay : 3000, // delay before hiding bars on desktop
+            videoMaxWidth : 1140, // videos max width
+            beforeOpen: function(){} , // called before opening
+            afterOpen: null, // called after opening
+            afterClose: function(){}, // called after closing
+            loopAtEnd: false, // true will return to the first image after the last image is reached
+            autoplayVideos: false, // true will autoplay Youtube and Vimeo videos
+            queryStringData: {}, // plain object with custom query string arguments to pass/override for video URLs,
+            toggleClassOnLoad: '' // CSS class that can be toggled when the slide will be loaded (like 'hidden' of Bootstrap)
+        });
+
+    });
+</script>
+</html>

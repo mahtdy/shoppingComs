@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <title>Ads Item Send</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="" type="image/x-icon"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="" type="image/x-icon">
+    <link rel="icon" href="" type="image/x-icon">
+    <meta name="alexaVerifyID" content=""/>
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <link rel="canonical" href=""/>
+    <!--og-->
+    <meta property="og:image" content=""/>
+    <meta property="og:title" content=""/>
+    <meta property="og:description" content=""/>
+    <meta property="og:type" content=""/>
+    <meta property="og:url" content=""/>
+    <!--twitter-->
+    <meta name="twitter:card" content=""/>
+    <meta name="twitter:url" content=""/>
+    <meta name="twitter:title" content=""/>
+    <meta name="twitter:description" content=""/>
+    <meta name="twitter:image" content=""/>
+    <meta name="twitter:creator" content=""/>
+    <!---stylesheets start-->
+    <link rel="stylesheet" type="text/css" href="css/theme.css">
+    <!---stylesheets end-->
+
+    <!-- data-main attribute tells require.js to load
+             scripts/main.js after require.js loads. -->
+    <script data-main="scripts/main" src="scripts/require.js"></script>
+
+</head>
+<body style="overflow-x:hidden;">
+<div class="container-fluid">
+    <div class="row">
+
+        <a href="#top" onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
+            <div class="gtop">
+                <span class="fa fa-angle-up animated infinite fadeInUp"></span>
+            </div>
+        </a>
+
+
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title"><span class="fa fa-user"></span>ورود به حساب کاربری</h4>
+                    </div>
+                    <div class="modal-body">
+
+
+                        <div class="form-group">
+                            <input class="form-control" placeholder="نام کاربری"></input>
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control" placeholder="کلمه عبور"></input>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6">
+                                    <div class="security-code">6587</div>
+                                </div>
+                                <div class="col-md-6 col-sm-6">
+                                    <input class="form-control" placeholder="کد امنیتی"></input>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6">
+                                    <button class="btn btn-primary">ثبت نام</button>
+
+                                </div>
+                                <div class="col-md-6 col-sm-6">
+                                    <button class="btn btn-success">ورود</button>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="modal-footer">
+                        <a href="#"><p><span class="fa fa-repeat"></span> بازنشانی رمز عبور!</p></a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+        <!-- Sidebar -->
+        <div id="wrapper">
+            <div class="overlay"></div>
+
+            <!-- Sidebar -->
+            <nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
+                <ul class="nav sidebar-nav">
+                    <li class="sidebar-brand">
+
+                    </li>
+                    <li>
+                        <a href="#">گزینه منو</a>
+                    </li>
+                    <li>
+                        <a href="#">گزینه منو</a>
+                    </li>
+                    <li>
+                        <a href="#">گزینه منو</a>
+                    </li>
+                    <li>
+                        <a href="#">گزینه منو</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">گزینه منو <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <!-- <li class="dropdown-header">گزینه منو</li> -->
+                            <li><a href="#">گزینه منو</a></li>
+                            <li><a href="#">گزینه منو</a></li>
+                            <li><a href="#">گزینه منو</a></li>
+                            <li><a href="#">گزینه منو</a></li>
+                            <li><a href="#">گزینه منو</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">گزینه منو</a>
+                    </li>
+                    <li>
+                        <a href="#">گزینه منو</a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/">گزینه منو</a>
+                    </li>
+                </ul>
+            </nav>
+            <!-- /#sidebar-wrapper -->
+
+
+        </div>
+        <!-- /#wrapper -->
+        <!-- /#sidebar-wrapper -->
+        <!-- Start Header Section -->
+        <header>
+
+            <!-- Start Header TopMenu -->
+            <section class="top hidden-xs">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 pull-right rtl animated fadeIn pr0">
+                            <ul>
+                                <li><a href="#">صفحه نخست</a></li>
+                                <li><a href="#">تایپوگرافی</a></li>
+                                <li><a href="#">برای نمونه</a></li>
+                                <li><a href="#">تماس با ما</a></li>
+                                <li><a href="#">انجمن</a></li>
+                                <li><a href="#">مستندات</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 pull-left ltr animated fadeIn">
+                            <ul class="fa">
+                                <li><a href="#"><span class="fa fa-facebook-square"></span></a></li>
+                                <li><a href="#"><span class="fa fa-google-plus-square"></span></a></li>
+                                <li><a href="#"><span class="fa fa-twitter-square"></span></a></li>
+                                <li><a href="#"><span class="fa fa-linkedin-square"></span></a></li>
+                                <li><a href="#"><span class="fa fa-instagram"></span></a></li>
+                                <li><a href="#"><span class="fa fa-rss"></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Start Header Logo -->
+            <section class="middle">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 pull-right rtl animated fadeIn">
+                            <figure>
+                                <img src="img/logo.png" alt=""/>
+                            </figure>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 hidden-xs form-group pull-left">
+                            <!-- Trigger the modal with a button -->
+                            <button type="button" class="btn btn-default btn-lg" data-toggle="modal"
+                                    data-target="#myModal"><span class="fa fa-user"></span>حساب کاربری
+                            </button>
+                        </div>
+
+                        <button type="button" class="hamburger is-closed hidden-lg hidden-md hidden-sm"
+                                data-toggle="offcanvas">
+                            <span class="hamb-top"></span>
+                            <span class="hamb-middle"></span>
+                            <span class="hamb-bottom"></span>
+                        </button>
+
+                    </div>
+                </div>
+            </section>
+
+            <!-- Start Mainmenu -->
+            <section class="bottom hidden-xs">
+                <div class="container">
+                    <div class="row">
+                        <div class="pull-right mainmenu">
+
+                            <nav class="navbar navbar-default navbar-right" role="navigation"
+                                 style="padding: 0px; margin: 0px;">
+
+                                <div class="container-fluid">
+
+
+                                    <!-- Collect the nav links, forms, and other content for toggling -->
+
+                                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                                        <ul class="nav navbar-nav navbar-right">
+
+                                            <li class="dropdown">
+
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span
+                                                        class="fa fa-sort-down"></span>خدمات</a>
+
+                                                <div class="dropdown-menu row col-lg-12 two-column-navbar" role="menu">
+
+                                                    <div class="col-md-6 col-sm-6 pull-right pr0 pl0">
+                                                        <img src="img/post1.jpg">
+                                                    </div>
+
+                                                    <div class="col-md-6 col-sm-6 pull-right desc pl0">لورم ایپسوم متن
+                                                        ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان
+                                                        گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و
+                                                        سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و
+                                                        کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای
+                                                        زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و
+                                                        متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان
+                                                        رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی
+                                                        ایجاد کرد.
+                                                    </div>
+
+                                                </div>
+
+                                            </li>
+
+                                            <li class="dropdown">
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">محصولات</a>
+                                            </li>
+
+                                            <li class="dropdown">
+
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span
+                                                        class="fa fa-sort-down"></span>دعوت به همکاری</a>
+
+                                                <div class="dropdown-menu row col-lg-12 three-column-navbar"
+                                                     role="menu">
+
+                                                    <div class="row">
+
+                                                        <div class="col-md-4 col-sm-4 pull-right">
+                                                            <img src="img/post1.jpg">
+
+                                                            <div class="desc">لورم ایپسوم متن ساختگی با تولید سادگی
+                                                                نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.
+                                                                چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان
+                                                                که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و
+                                                                کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="col-md-4 col-sm-4 pull-right">
+                                                            <img src="img/post1.jpg">
+
+                                                            <div class="desc">لورم ایپسوم متن ساختگی با تولید سادگی
+                                                                نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.
+                                                                چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان
+                                                                که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و
+                                                                کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="col-md-4 col-sm-4 pull-right">
+                                                            <img src="img/post1.jpg">
+
+                                                            <div class="desc">لورم ایپسوم متن ساختگی با تولید سادگی
+                                                                نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.
+                                                                چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان
+                                                                که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و
+                                                                کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+
+
+                                                </div>
+
+                                            </li>
+
+                                        </ul>
+
+
+                                        <ul class="nav navbar-nav navbar-right ">
+
+                                            <li class="dropdown">
+
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span
+                                                        class="fa fa-sort-down"></span>تایپوگرافی</a>
+
+                                                <div class="dropdown-menu row col-lg-12 three-column-navbar"
+                                                     role="menu">
+
+                                                    <div class="col-md-4 col-sm-4 smenulist">
+                                                        <h3>عنوان لیست زیر منو</h3>
+                                                        <ul>
+                                                            <li><a href="#">گزینه لیست</a></li>
+                                                            <li><a href="#">گزینه لیست</a></li>
+                                                            <li><a href="#">گزینه لیست</a></li>
+                                                        </ul>
+                                                    </div>
+
+                                                    <div class="col-md-4 col-sm-4 smenulist">
+                                                        <h3>عنوان لیست زیر منو</h3>
+                                                        <ul>
+                                                            <li><a href="#">گزینه لیست</a></li>
+                                                            <li><a href="#">گزینه لیست</a></li>
+                                                            <li><a href="#">گزینه لیست</a></li>
+                                                        </ul>
+                                                    </div>
+
+                                                    <div class="col-md-4 col-sm-4 smenulist">
+                                                        <h3>عنوان لیست زیر منو</h3>
+                                                        <ul>
+                                                            <li><a href="#">گزینه لیست</a></li>
+                                                            <li><a href="#">گزینه لیست</a></li>
+                                                            <li><a href="#">گزینه لیست</a></li>
+                                                        </ul>
+                                                    </div>
+
+                                                </div>
+
+                                            </li>
+
+
+                                            <li class="dropdown">
+
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span
+                                                        class="fa fa-sort-down"></span>ورود کاربران</a>
+
+                                                <ul class="dropdown-menu login-dropdown pull-right" role="menu">
+
+                                                    <form class="form-group-lg" style="padding: 3px 10px;">
+
+                                                        <input type="email" class="form-control margin-bottom-ten-px"
+                                                               placeholder="ایمیل" required="">
+
+                                                        <input type="password" class="form-control margin-bottom-ten-px"
+                                                               placeholder="رمز عبور" required="">
+
+                                                        <!--<li class="divider"></li>-->
+
+                                                        <button type="submit"
+                                                                class="btn btn-success full-width-button float-right">
+                                                            ورود
+                                                        </button>
+                                                        <!-- Remove "full-width-button" if you want the default button width  -->
+
+                                                    </form>
+
+                                                </ul>
+
+                                            </li>
+
+
+                                            <li class="dropdown">
+
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span
+                                                        class="fa fa-sort-down"></span>جستجو</a>
+
+                                                <ul class="dropdown-menu login-dropdown pull-right" role="menu">
+
+                                                    <form class="navbar-form pull-left" role="search">
+
+                                                        <div class="form-group">
+                                                            <input type="text" class="form-control searchinput"
+                                                                   placeholder="جستجو ...">
+
+                                                            <button type="submit" class="btn btn-primary searchbtn">
+                                                                <span class="fa fa-search"></span>
+                                                            </button>
+                                                        </div>
+
+
+                                                    </form>
+
+                                                </ul>
+
+                                            </li>
+
+                                            <li></li>
+
+                                        </ul>
+
+
+                                    </div>
+
+                                </div>
+
+                            </nav>
+                        </div>
+
+                    </div>
+
+                </div>
+            </section>
+        </header>
+        <!-- End Header -->
+
+
+        <!-- Start breadcrumb -->
+        <section class="breadcrumb-sec animated fadeIn">
+            <div class="container">
+                <ol class="breadcrumb rtl">
+                    <li><a href="#"><span class="fa fa-home"></span></a></li>
+                    <li><a href="#">لیست آگهی</a></li>
+                    <li class="active">ارسال آگهی</li>
+                </ol>
+            </div>
+        </section>
+
+
+        <!-- Start Page Title -->
+        <div class="ptitle">
+            <div class="container">
+
+                <span class="fa fa-bullhorn"></span>
+
+                <h1 class="title">لیست آگهی</h1>
+                <span class="pdesc">توضیح مختصر درباره این صفحه در اینجا نمایش داده می شود.</span>
+
+            </div>
+        </div>
+        <!-- End Page Title -->
+
+
+        <div class="container">
+            <main>
+                <!-- Start Main -->
+                <div class="row">
+
+
+                    <!-- Start Article -->
+                    <article class="col-md-9 col-xs-12 pull-right animated fadeIn">
+                        <section class="content">
+                            <div class="row">
+                                <section class="col-xs-12 ads_send rtl">
+
+
+                              <div class="row"><h1><span class="fa fa-bullhorn"></span>ارسال آگهی</h1></div>
+                                    <form id="fwvalidator" data-toggle="validator">
+                                    <div class="row">
+                                        <div class="row">
+                                            <div class="col-xs-12 form-group pull-right has-feedback">
+                                                <label>عنوان آگهی:</label>
+                                                <input required data-error="حداقل سه کلمه وارد کنید!" class="form-control fullwidth" type="text" data-minlength="15"/>
+                                                <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                            <div class="col-xs-12 form-group pull-right">
+                                                <label>گروه:</label>
+                                                    <select class="select2 cat-select" style="width:100%;">
+                                                        <option>انتخاب گروه ...</option>
+                                                        <option class="select2-l1">نرم افزار</option>
+                                                        <option class="select2-l2">آفیس</option>
+                                                        <option class="select2-l2">سیستم عامل</option>
+                                                        <option class="select2-l3">Windows</option>
+                                                        <option class="select2-l3">Linux</option>
+                                                        <option class="select2-l3">Mac</option>
+                                                        <option class="select2-l1">سخت افزار</option>
+                                                        <option class="select2-l2">Desktop</option>
+                                                        <option class="select2-l2">Laptop</option>
+                                                        <option class="select2-l3">LCD</option>
+                                                    </select>
+
+                                            </div>
+                                            <div class="col-xs-12 form-group pull-right">
+                                                <label>قیمـت<span class="suf">(تومان)</span>:</label>
+                                                <input id="pricecheck" type="checkbox" />
+                                                <span>توافقی</span>
+                                                <input id="priceipbx" class="form-control fullwidth" type="text"/>
+
+                                            </div>
+                                        </div>
+
+                                            <h3>مشخصات عمومی</h3><hr/>
+
+
+                                        <div class="row">
+                                            <div class="col-md-4 col-sm-6 col-xs-12 form-group pull-right">
+                                                <label>نو / دست دوم:</label>
+                                                <select class="form-control fullwidth">
+                                                    <option value="a">نو</option>
+                                                    <option value="b">دست دوم</option>
+                                                </select>
+                                            </div>
+                                            <div class="col-md-4 col-sm-6 col-xs-12 form-group pull-right">
+                                                <label>نو / دست دوم:</label>
+                                                <select class="form-control fullwidth">
+                                                    <option value="a">نو</option>
+                                                    <option value="b">دست دوم</option>
+                                                </select>
+                                            </div>
+                                            <div class="col-md-4 col-sm-6 col-xs-12 form-group pull-right">
+                                                <label>نو / دست دوم:</label>
+                                                <select class="form-control fullwidth">
+                                                    <option value="a">نو</option>
+                                                    <option value="b">دست دوم</option>
+                                                </select>
+                                            </div>
+                                        </div>
+
+                                            <h3>مشخصات اختصاصی</h3><hr/>
+
+
+                                        <div class="row">
+                                            <div class="col-md-4 col-sm-6 col-xs-12 form-group pull-right">
+                                                <label>متراژ:</label>
+                                                <input class="form-control fullwidth" type="text"/>
+                                            </div>
+                                            <div class="col-md-4 col-sm-6 col-xs-12 form-group pull-right">
+                                                <label>متراژ:</label>
+                                                <input class="form-control fullwidth" type="text"/>
+                                            </div>
+                                            <div class="col-md-4 col-sm-6 col-xs-12 form-group pull-right">
+                                                <label>متراژ:</label>
+                                                <input class="form-control fullwidth" type="text"/>
+                                            </div>
+                                        </div>
+
+                                            <h3>مکان آگهی</h3><hr/>
+                                        <div class="row">
+                                            <div class="col-xs-12 form-group pull-right">
+                                                <label>شهر:</label>
+                                                <select class="select2 cat-select" style="width:100%;">
+                                                    <option>انتخاب شهر ...</option>
+                                                    <option class="select2-l1">قزوین</option>
+                                                    <option class="select2-l2">آبیک</option>
+                                                    <option class="select2-l1">تهران</option>
+                                                    <option class="select2-l2">شهر ری</option>
+                                                </select>
+                                            </div>
+                                            <div class="col-xs-12 form-group pull-right">
+                                                <label>شرح آگهی:</label>
+                                                <textarea class="fullwidth" rows="5"></textarea>
+                                            </div>
+                                            <div class="col-xs-12 form-group pull-right"></div>
+                                        </div>
+
+                                            <h3>درج تصویر آگهی</h3><hr/>
+                                        <div class="row">
+                                            <div class="col-xs-12 form-group pull-right"></div>
+                                        </div>
+
+
+                                            <h3>مشخصات ارسال کننده آگهی</h3><hr/>
+                                        <div class="row">
+                                            <div class="col-xs-12 form-group pull-right">
+                                                <label>ایمیل:</label>
+                                                <input type="email" class="form-control fullwidth" type="text"/>
+                                                <p>ایمیل شما به کاربران سایت نمایش داده نمی‌شود و نزد ما محفوظ می‌ماند.</p>
+                                            </div>
+                                            <div class="col-xs-12 form-group pull-right">
+                                                <label>شماره تماس:</label>
+                                                <input data-error="شماره موبایل حداقل 11 رقم دارد!" data-minlength="11" class="form-control fullwidth" type="text"/>
+                                            </div>
+                                            <div class="col-xs-12 form-group pull-right">
+                                                <p>با کلیک روی دکمه ثبت آگهی، موافقت خود را با قوانین و شرایط استفاده کامز اعلام می‌کنید.</p>
+                                            </div>
+                                            <div class="col-xs-12">
+                                                <hr/>
+                                            </div>
+                                            <div class="col-xs-12 form-group pull-right">
+                                                <button class="btn btn-success">ارسال آگهی</button>
+                                            </div>
+                                        </div>
+<div class="row">
+    <div class="col-xs-12 form-group pull-right">
+
+    </div>
+</div>
+                                    </div>
+
+                                    </form>
+
+                                </section>
+                            </div>
+                        </section>
+                    </article>
+
+                    <!-- Start Right Sidebar -->
+                    <aside class="col-md-3 hidden-sm pull-right animated fadeIn">
+                        <section class="block-col">
+
+
+
+
+
+                            <div class="block hidden-xs">
+                                <div class="header">
+                                    <h3><span>لیست موضوعات</span></h3>
+                                </div>
+                                <div class="content ads_cats">
+                                    <ul>
+                                        <li><i class="fa fa-folder"></i><a
+                                                href="#"><span>وسایل الکترونیکی</span></a><span class="amar">356</span>
+                                        </li>
+                                        <li><i class="fa fa-folder"></i><a href="#"><span>وسایل نقلیه</span></a><span
+                                                class="amar">84</span></li>
+                                        <li><i class="fa fa-folder"></i><a href="#"><span>لوازم خانگی</span></a><span
+                                                class="amar">984</span></li>
+                                        <li><i class="fa fa-folder"></i><a href="#"><span>لوازم شخصی</span></a><span
+                                                class="amar">984984</span></li>
+                                        <li><i class="fa fa-folder"></i><a href="#">استخدام<span></span></a><span
+                                                class="amar">874</span></li>
+                                        <li><i class="fa fa-folder"></i><a href="#">خدمات، کسب و
+                                            کار<span></span></a><span class="amar">94884</span></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+
+                        </section>
+                    </aside>
+                    
+                </div>
+                <!-- end main row -->
+            </main>
+            <!-- end main -->
+        </div>
+        <!-- End main container -->
+
+        <!-- Filehaye safhe-->
+        <link rel="stylesheet" type="text/css" href="css/component.css"/>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap-datepicker.min.css"/>
+        <link rel="stylesheet" type="text/css" href="css/jquery.Bootstrap-PersianDateTimePicker.css"/>
+        <!--<link rel="stylesheet" type="text/css" href="css/responsive-slider.css">-->
+        <link rel="stylesheet" type="text/css" href="css/select2/select2.min.css">
+        <link rel="stylesheet" type="text/css" href="css/select2/select2-bootstrap.min.css">
+        <!-- Filehaye safhe-->
+
+        <!-- Start Footer -->
+        <footer>
+
+            <!-- Start Footer First Section -->
+            <section class="footerads">
+                <div class="container">
+                    <figure>
+                        <img src="img/adsbanner.jpg">
+                    </figure>
+                </div>
+            </section>
+
+            <!-- Start Footer Second Section -->
+            <section class="footerblocks">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4 col-xs-12 pull-right postlist">
+                            <h3>مطالب پربیننده</h3>
+                            <ul>
+                                <li>
+                                    <div class="row">
+                                        <div class="col-md-4 pull-right">
+                                            <figure>
+                                                <a href="#" class="hvr-grow"><img src="img/post1.jpg"></a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-md-8 pull-right pr0">
+                                            <a href="#"><h4>عنوان نمونه برای این بخش</h4></a>
+
+                                            <p>25 مهر 1393</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="row">
+                                        <div class="col-md-4 pull-right">
+                                            <figure>
+                                                <a href="#" class="hvr-grow"><img src="img/post2.jpg"></a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-md-8 pull-right pr0">
+                                            <a href="#"><h4>عنوان نمونه برای این بخش</h4></a>
+
+                                            <p>25 مهر 1393</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="row">
+                                        <div class="col-md-4 pull-right">
+                                            <figure>
+                                                <a href="#" class="hvr-grow"><img src="img/post3.jpg"></a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-md-8 pull-right pr0">
+                                            <a href="#"><h4>عنوان نمونه برای این بخش</h4></a>
+
+                                            <p>25 مهر 1393</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="row">
+                                        <div class="col-md-4 pull-right">
+                                            <figure>
+                                                <a href="#" class="hvr-grow"><img src="img/post4.jpg"></a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-md-8 pull-right pr0">
+                                            <a href="#"><h4>عنوان نمونه برای این بخش</h4></a>
+
+                                            <p>25 مهر 1393</p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4 col-xs-12 pull-right catlist">
+                            <h3>موضوعات</h3>
+                            <ul class="row">
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>خدمات</span></a>
+                                </li>
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>محصولات</span></a>
+                                </li>
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>سیاسی</span></a>
+                                </li>
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>اقتصادی</span></a>
+                                </li>
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>فرهنگی</span></a>
+                                </li>
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>اجتماعی</span></a>
+                                </li>
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>خدمات</span></a>
+                                </li>
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>محصولات</span></a>
+                                </li>
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>سیاسی</span></a>
+                                </li>
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>اقتصادی</span></a>
+                                </li>
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>فرهنگی</span></a>
+                                </li>
+                                <li class="col-md-6 pull-right">
+                                    <a href="#"><span>اجتماعی</span></a>
+                                </li>
+                            </ul>
+                            <div class="newsletter col-md-12 pull-right pr0 pl0">
+                                <h3>خبرنامه</h3>
+
+                                <p>برای دریافت آخرین اخبار و مطالب در خبرنامه ما عضو شوید.</p>
+
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-md-9 pull-left">
+                                            <input type="email" class="form-control" id="exampleInputEmail2"
+                                                   placeholder="jane.doe@example.com">
+                                        </div>
+                                        <div class="col-md-3 pull-right pl0">
+                                            <button type="submit" class="btn btn-success">عضویت</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-xs-12 pull-right commentlist">
+                            <h3>آخرین دیدگاه ها</h3>
+                            <ul>
+                                <li>
+                                    <div class="row">
+                                        <div class="col-md-3 pull-right">
+                                            <figure>
+                                                <a href="#"><img src="img/avatar1.jpg"></a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-md-9 pull-right pr0">
+                                            <h5>علی در سه روز پیش</h5>
+                                            <a href="#"><h4>در مورد مطلب علمی</h4></a>
+
+                                            <p>خیلی ممنون از ...</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="row">
+                                        <div class="col-md-3 pull-right">
+                                            <figure>
+                                                <a href="#"><img src="img/avatar2.jpg"></a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-md-9 pull-right pr0">
+                                            <h5>علی در سه روز پیش</h5>
+                                            <a href="#"><h4>در مورد مطلب علمی</h4></a>
+
+                                            <p>خیلی ممنون از ...</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="row">
+                                        <div class="col-md-3 pull-right">
+                                            <figure>
+                                                <a href="#"><img src="img/avatar1.jpg"></a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-md-9 pull-right pr0">
+                                            <h5>علی در سه روز پیش</h5>
+                                            <a href="#"><h4>در مورد مطلب علمی</h4></a>
+
+                                            <p>خیلی ممنون از ...</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="row">
+                                        <div class="col-md-3 pull-right">
+                                            <figure>
+                                                <a href="#"><img src="img/avatar2.jpg"></a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-md-9 pull-right pr0">
+                                            <h5>علی در سه روز پیش</h5>
+                                            <a href="#"><h4>در مورد مطلب علمی</h4></a>
+
+                                            <p>خیلی ممنون از ...</p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Start Footer Third Section -->
+            <section class="footerads2">
+                <div class="container">
+                    <figure>
+                        <img src="img/adsbanner.jpg">
+                    </figure>
+                </div>
+            </section>
+
+            <!-- Start Footer Copyright Section -->
+            <section class="copyright">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 pull-right">
+                            <p>تمام حقوق مادی و معنوی این وبسایت محفوظ میباشد.</p>
+                        </div>
+                        <div class="col-md-6 pull-left pl0">
+                            <ul class="fa">
+                                <li><a href="#"><span class="fa fa-facebook-square"></span></a></li>
+                                <li><a href="#"><span class="fa fa-google-plus-square"></span></a></li>
+                                <li><a href="#"><span class="fa fa-twitter-square"></span></a></li>
+                                <li><a href="#"><span class="fa fa-linkedin-square"></span></a></li>
+                                <li><a href="#"><span class="fa fa-instagram"></span></a></li>
+                                <li><a href="#"><span class="fa fa-rss"></span></a></li>
+                                <li><a href="#" data-toggle="tooltip" data-placement="right" title=""
+                                       data-original-title="!کامز، همه چیز یک جا"><span
+                                        class="icon-comslogo"></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </footer>
+
+        <!--main row-->
+    </div>
+    <!--container-fluid-->
+</div>
+</body>
+</html>

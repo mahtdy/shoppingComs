@@ -1,0 +1,104 @@
+html .H_scroll-to-top.visible {
+    opacity: 1;
+}
+html .H_scroll-to-top:hover {
+    opacity: 1;
+}
+html .H_scroll-to-top {
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    transition: opacity 0.3s;
+    background: #ac1426;
+    border-radius: 7px 7px 0 0;
+    bottom: 0;
+    color: #FFF;
+    display: block;
+    height: 9px;
+    opacity: 0;
+    padding: 13px 10px 35px;
+    position: fixed;
+    left: 10px;
+    text-align: center;
+    text-decoration: none;
+    min-width: 150px;
+    z-index: 1040;
+}
+.H_scroll-to-top h3{
+    color: #fff;
+    font-size: 15px;
+    display: inline-block;
+}
+.fa-envelope:before {
+    color: #fff;
+    font-size: 17px;
+    margin-left: 10px;
+}
+.H_show_box{
+    display: none;
+}
+.is-visible{
+    display: block;
+}
+.H_styles{
+    position: fixed;
+    bottom: 0;
+    right: 10px;
+    z-index: 999;
+    background: #fff;
+    border: 1px solid #dcd4d4;
+}
+.H_mlr0{
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+}
+.H_con_w100{
+    width: 100%!important;
+}
+.H_input{
+    height: 30px!important;
+    line-height: 44px!important;
+    padding: 0 10px!important;
+    outline: none!important;
+    font-size: 12px!important;
+    color: #808080!important;
+    margin: 0 0 10px 0!important;
+    max-width: 100%!important;
+    width: 100%!important;
+    box-sizing: border-box!important;
+    display: block!important;
+    background-color: #fff!important;
+    border: 1px solid #d7d7d7!important;
+    border-radius:0!important;
+    /* font-weight: 500; */
+    opacity: 1!important;
+}
+.H_con_mb25{
+    margin-bottom: 25px;
+}
+.H_con_height30{
+    height:100px!important;
+    min-height: 100px;
+}
+.fa-close{
+    background: #000;
+    color: #fff;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    left: -22px;
+    top: -10px;
+    cursor: pointer;
+}
+.fa-remove:before, .fa-close:before, .fa-times:before {
+    content: "\f00d";
+    padding-right: 5px;
+    position: relative;
+    top: 3px;
+}
+.H_con_hfb{
+    font-size: 12px!important;
+    height: 35px!important;
+    border-radius: 2px!important;
+}

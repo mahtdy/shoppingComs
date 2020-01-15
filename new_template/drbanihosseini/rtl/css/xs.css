@@ -1,0 +1,49 @@
+.textlimit{
+    display: inline-block!important;
+}
+.textlimit-dots{
+    display: none;
+}
+.textlimit:before{
+    content:none!important;
+}
+main article .content .list #switchshow .gridshow li img{
+    min-width: 260px;
+    min-height: auto!important;
+    width: auto!important;
+    /*height: auto!important;*/
+}
+main article .content .list #switchshow .gridshow li{
+    text-align: right;
+}
+
+main article .content .list #switchshow .gridshow .audio-player{
+    border-radius: 0 5px 0 5!important;
+    right: 10px!important;
+    left: auto!important;
+}
+main .gridgalleryshow .tools .social{
+    direction: rtl!important;
+}
+main .videogalleryshow .tools .social{
+    direction: rtl!important;
+}
+main article .content .ads_item .ads_title .code{
+    float: right!important;
+    clear: both;
+    margin-top: 5px;
+}
+main .gridgallery .item figure img{
+    /*height: auto!important;*/
+}
+main article .vige_news .photo img{
+    height: auto!important;
+}
+main article .content .bloglist .item img{
+    height: auto!important;
+}
+
+.login_part_border
+{
+    border-left: 0;
+}

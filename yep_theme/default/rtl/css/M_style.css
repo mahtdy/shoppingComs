@@ -1,0 +1,29 @@
+.pos_top32{
+
+   position: absolute;
+   top: 32px;
+}
+.w100{
+   width: 100%;
+}
+.height100{
+   height: 100%;
+}
+.border_b{
+   border: none;
+   border-bottom: 1px solid #969696 !important;
+}
+.dropdown-menu>li:last-child>a {
+   border-bottom: none!important;
+}
+
+.float-r{
+   float: right!important;
+}
+.float-l{
+   float: left!important;
+}
+
+.magin-r{
+   margin-right: 2%!important;
+}

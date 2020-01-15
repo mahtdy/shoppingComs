@@ -1,0 +1,310 @@
+#navigation ul li:hover > ul li:hover> ul{
+    opacity: 1 !important;
+    top:0 !important;
+    right: 147px;
+    visibility: visible;
+    transform: translate3d(0,0,0);
+}
+#navigation ul,#navigation ul ul{
+    list-style: none;
+
+}
+.H_user{
+    display: inline-block;
+    top: 25px;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    margin-top: -26px;
+    padding-right: 15px;
+
+}
+@media (min-width: 992px) {
+    /*-----------------------start Flesh menu-------------------------*/
+    /*------no child-----*/
+    #navigation ul li a:only-child:after {
+        content: '';
+        padding: 0;
+    }
+    #navigation ul ul li a:only-child:after {
+        content: '';
+    }
+    /*-----------------------*/
+
+    #navigation ul li:hover a:after {
+        opacity: 1;
+        transform: translateX(0);
+    }
+
+    #navigation ul li ul li a:after {
+        content: '\f104';
+        position: absolute;
+        top: 5px;
+        font-family: "FontAwesome";
+        opacity: 0.5;
+        transition: all 0.25s;
+        transform: translateX(9px);
+    }
+
+
+    #navigation ul  li a:after {
+        content: '\f0d7';
+        padding-right: 7px;
+        float: left;
+        opacity:1 ;
+        font-family: "FontAwesome" ;
+    }
+    /*-----------------------End Flesh menu-------------------------*/
+
+    .tp-parallax-wrap {
+        right: 50px !important;
+    }
+
+    .tp-parallax-wrap a {
+        color: white !important;
+    }
+
+    .tp-caption.bottom-label {
+        /*font-weight: 700 !important;*/
+        font-size: 20px !important;
+        top: 25px !important;
+        border-bottom-style: none !important;
+    }
+
+    .tp-caption.bottom-label.H {
+        font-size: 18px !important;
+        top: 70px !important;
+        border-bottom-style: none !important;
+    }
+
+    .tp-mask-wrap {
+        overflow: visible !important;
+    }
+
+    .tp-caption.main-label {
+        top: -10px !important;
+        font-size:30px !important;
+    }
+
+    .tp-caption.main-label.H {
+        top: 10px !important;
+        font-size: 23px !important;
+    }
+    /*--------------------bottom slid show---------------------*/
+    .tp-bullets.vertical.nav-pos-hor-right.nav-pos-ver-center.nav-dir-vertical.noSwipe{
+        right: 92% !important;
+    }
+
+    .lead {
+        font-size: 14px !important;
+    }
+}
+@media (max-width: 992px) {
+    /*-----------------------start Flesh menu-------------------------*/
+    /*------no child-----*/
+    #navigation ul li a:only-child:after {
+        content: '';
+        padding: 0;
+    }
+    #navigation ul ul li a:only-child:after {
+        content: '';
+    }
+    /*-----------------------*/
+
+    #navigation ul li:hover a:after {
+        opacity: 1;
+        transform: translateX(0);
+    }
+
+    #navigation ul li ul li a:after {
+        content: '\f0d7';
+        position: absolute;
+        top: 5px;
+        font-family: "FontAwesome";
+        opacity: 0.5;
+        transition: all 0.25s;
+        transform: translateX(9px);
+    }
+
+
+    #navigation ul  li a:after {
+        content: '\f0d7';
+        padding-right: 7px;
+        float: left;
+        opacity:1 ;
+        font-family: "FontAwesome" ;
+    }
+    /*-----------------------End Flesh menu-------------------------*/
+
+
+    .tp-parallax-wrap {
+        right: 40px !important;
+
+    }
+
+    .tp-parallax-wrap a {
+        color: white !important;
+
+    }
+
+    .tp-caption.bottom-label {
+        /*font-weight: 700 !important;*/
+        font-size: 13px !important;
+        top: 25px !important;
+        border-bottom-style: none !important;
+    }
+
+    .tp-caption.bottom-label.H {
+        font-size: 11px !important;
+        top: 70px !important;
+        border-bottom-style: none !important;
+    }
+
+    .tp-mask-wrap {
+        overflow: visible !important;
+    }
+
+    .tp-caption.main-label {
+        top: -10px !important;
+        font-size: 16px !important;
+    }
+
+    .tp-caption.main-label.H {
+        top: 10px !important;
+        font-size: 13px !important;
+    }
+    /*--------------------bottom slid show---------------------*/
+    .tp-bullets.vertical.nav-pos-hor-right.nav-pos-ver-center.nav-dir-vertical.noSwipe{
+        right: 87% !important;
+    }
+
+    .lead {
+        font-size: 13px !important;
+    }
+    .H_user{
+        min-width: 143px !important;
+    }
+    .H_sub{
+        position: absolute !important;
+        top: 27px !important;
+        background-color: white !important;
+        border-radius: 4px !important;
+        min-width: 120px!important;
+    }
+}
+
+/*-----------------mobile--------------*/
+@media (max-width: 576px) {
+    /*-----------------------start Flesh menu-------------------------*/
+    /*------no child-----*/
+    #navigation ul li a:only-child:after {
+        content: '';
+        padding: 0;
+    }
+    #navigation ul ul li a:only-child:after {
+        content: '';
+    }
+    /*-----------------------*/
+
+    #navigation ul li:hover a:after {
+        opacity: 1;
+        transform: translateX(0);
+    }
+
+    #navigation ul li ul li a:after {
+        content: '\f0d7';
+        position: absolute;
+        top: 5px;
+        font-family: "FontAwesome";
+        opacity: 0.5;
+        transition: all 0.25s;
+        transform: translateX(9px);
+    }
+
+
+    #navigation ul  li a:after {
+        content: '\f0d7';
+        padding-right: 7px;
+        float: left;
+        opacity:1 ;
+        font-family: "FontAwesome" ;
+    }
+    /*-----------------------End Flesh menu-------------------------*/
+
+
+    .tp-parallax-wrap {
+        right: 20px !important;
+    }
+
+    .tp-parallax-wrap a {
+        color: white !important;
+    }
+
+    .tp-caption.bottom-label {
+        /*font-weight: 700 !important;*/
+        font-size: 11px !important;
+        top: 25px !important;
+        border-bottom-style: none !important;
+    }
+
+    .tp-caption.bottom-label.H {
+        font-size: 10px !important;
+        top: 55px !important;
+        border-bottom-style: none !important;
+    }
+
+    .tp-mask-wrap {
+        overflow: visible !important;
+    }
+
+    .tp-caption.main-label {
+        top: -10px !important;
+        font-size: 13px !important;
+    }
+
+    .tp-caption.main-label.H {
+        top: 10px !important;
+        font-size: 11px !important;
+    }
+    /*--------------------bottom slid show---------------------*/
+    .tp-bullets.vertical.nav-pos-hor-right.nav-pos-ver-center.nav-dir-vertical.noSwipe{
+        right: 75% !important;
+    }
+    /*---------------------------blue box ----------------------------*/
+
+    .medical-schedules .box-one, .medical-schedules .box-two, .medical-schedules .box-three, .medical-schedules .box-four {
+        height:70px !important;
+    }
+    .p-lg {
+        padding: 14px 0 0 0 !important;
+    }
+    .medical-schedules {
+        margin: 0 !important;
+    }
+    .medical-schedules .box-four .feature-box-icon {
+        margin-top: -4px !important;
+    }
+    .feature-box.feature-box-style-2 .feature-box-icon {
+        width: 27px!important;
+        height: 31px !important;
+    }
+    .ml-md {
+        margin-top: 1px !important;
+    }
+    .medical-schedules .box-two, .medical-schedules .box-three {
+        padding: 28px 38px 43px 38px !important;
+    }
+    .tp-bullets .tp-bullet {
+        padding: 0 !important;
+    }
+    .H_user{
+        min-width: 143px !important;
+    }
+    .H_sub{
+        position: absolute !important;
+        top: 27px !important;
+        background-color: white !important;
+        border-radius: 4px !important;
+        min-width: 120px!important;
+    }
+}

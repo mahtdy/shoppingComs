@@ -1,0 +1,8 @@
+main article .content .list #switchshow .option button{
+    float: right!important;
+}
+
+.login_part_border
+{
+    border-left: 0;
+}

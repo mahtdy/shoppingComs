@@ -1,0 +1,41 @@
+
+/* Lists */
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Menu Button */
+.menu-btn {
+    position: absolute;
+    right: 60px;
+  width: 50px;
+  margin-bottom: 10px;
+    padding-top: 4px;
+  background: #333;
+  color: white;  
+  font-weight: 600;
+  text-align: center;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.menu-btn i{
+    margin-left: 0px;
+}
+.menu-btn:hover {
+  opacity: 0.6;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*# sourceMappingURL=demo.css.map */
